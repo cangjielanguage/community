@@ -6,7 +6,9 @@
 # 介绍
 Community 仓库用于管理仓颉语言项目管理委员会社区治理、Team列表、开发者贡献协议、社区交流等内容。
 - 仓颉社区治理架构
+    - [仓颉社区项目管理制度与操作指南](https://gitcode.com/Cangjie/community/blob/main/project_management.md)
     - [仓颉语言项目管理委员会](https://gitcode.com/Cangjie/community/blob/main/zh/pmc.md)
+    
 - [开发者贡献指南](https://gitcode.com/Cangjie/community/blob/main/contribute/contribution.md)
 - [开发者社区贡献协议](https://clasign.cangjie-lang.cn/sign/Z2l0Y29kZSUyRkNhbmdqaWU=)
 - [社区交流](https://gitcode.com/Cangjie/community/blob/main/contribute/communication.md)

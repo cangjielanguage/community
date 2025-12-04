@@ -5,7 +5,9 @@
 1. 负责仓颉语言项目的管理工作，包括开源社区版本规划、架构看护、特性代码开发维护、版本及补丁规划等；
 2. 发布和处理仓颉语言项目的需求，为开源社区提供技术架构指导和技术决策；
 3. 处理仓颉语言项目的Bug、issue、邮件列表等渠道开发者反馈问题；
-4. 负责仓颉语言PMC、Committer成员的选举和退出，制定仓颉语言项目的PMC、Committer协作机制；
+4. 负责仓颉语言PMC、Committer成员的选举和退出，制定仓颉语言项目的PMC、Committer协作机制。
+
+
 
 ## 仓颉语言 PMC 关键角色职责定义
 
@@ -16,6 +18,8 @@
 | 版本发布 | 规划和计划版本的发行时间表；<br/>在开发/测试周期中跟踪（更新updates或功能feature）的开发状态；<br/>版本发布协调，参与相关组和发布相关等会议；<br/>负责项目的交付过程协调。 | 仓颉语言PMC版本发布流程；<br/>仓颉语言PMC版本发行时间表；<br/>仓颉语言PMC版本补丁发布流程和生命周期策略说明。 |
 | 质量运营 | 负责Team项目孵化准出的质量标准制定；<br/>负责社区开发、治理、运营等流程规范的制定和发布；<br/>制定社区奖惩机制，例行跟踪社区运营问题，并定期在仓颉语言PMC例会汇报关键角色参与社区治理情况。 | Team项目孵化流程规范制定；<br/>仓颉语言PMC开发、治理和运营等流程规范制定和发布。 |
 | 基础设施 | 支持仓颉语言PMC构建发布工具基础架构/发布工程的工具环境；<br/>支持仓颉语言PMC工具应用程序维护；<br/>支持仓颉语言PMC沟通交流和社区运营监控平台；<br/>制定仓颉语言PMC的基础设施发展计划。 | 构建工具使用指导；<br/>仓颉语言PMC通信使用指导。             |
+
+
 
 ## 仓颉语言 PMC 成员列表
 
@@ -35,3 +39,12 @@
 | 麻赛军 |                                       | PMC成员 | Infrastructure Team |
 | 曾维林 |                                       | PMC成员 | Release Team        |
 
+
+
+# 相关管理制度
+
+- [仓颉社区版本管理](https://gitcode.com/Cangjie/community/blob/main/zh/version_management.md)
+- [提案管理](https://gitcode.com/Cangjie/community/blob/main/zh/proposal_management.md)
+- [仓颉社区代码仓管理](https://gitcode.com/Cangjie/community/blob/main/zh/repo_management.md)
+- [成长路径](https://gitcode.com/Cangjie/community/blob/main/zh/growth.md)
+- [Team管理制度与操作指南](https://gitcode.com/Cangjie/community/blob/main/team/README_zh.md)

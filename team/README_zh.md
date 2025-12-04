@@ -112,9 +112,14 @@ Team 的生命周期包括创建申请、运作、变更和终止四个阶段。
 #### 1.4 创建 Team 组
 
 PMC 审批通过后，Team 发起人需在 Cangjie/community 仓库中完成以下操作：
+
 1.Fork 并 Clone 代码库：将 Cangjie/community 库 Fork 到个人空间后 Clone 到本地。
+
 2.创建 Team 文件夹：在 team 目录下创建以 Team 名称命名的文件夹（如 team/team_name）。
+
 3.创建 Team 描述文件：将 team/team_template 文件夹中的模板文件拷贝至新创建的 Team 文件夹，并根据 Team 实际情况重命名和填写内容。
+
+
 
 ```
 # 假设Fork 到个人空间后 Clone 到本地
@@ -126,7 +131,10 @@ mv team_template.md team/team_yourteamname/team_yourteamname.md
 # 使用编辑器编辑 team_yourteamname/team_yourteamname_cn.md 和 team_yourteamname/team_yourteamname.md文件
 ```
 
+
+
 4.配置 Team 组织信息：添加新 Team 的组织信息。
+
 5.提交 Pull Request：将上述修改提交一个 PR 到 Cangjie/community 仓库，PR 中需附上 PMC 审批通过的会议纪要链接。
 
 ### 2.日常运作
@@ -158,8 +166,11 @@ mv team_template.md team/team_yourteamname/team_yourteamname.md
 #### 3.1仓颉项目仓库孵化流程
 
 仓颉项目仓库从开源建仓到孵化成熟，通常需经历以下阶段：
+
 1.新建仓库申请：向架构 Team 提交新建仓库申请议题。
+
 2.孵化准出预审：向架构 Team 提交孵化准出预审议题。
+
 3.孵化准出终审：向 QA Team 提交孵化准出终审议题，解决所有遗留问题后完成准出。
 
 注意：新建仓库必须配置至少 2 名 Committer 以支持代码交叉检视（cross review）；满足基本合规要求，完成孵化仓目标准出的关联仓的联合构建。
@@ -180,6 +191,8 @@ mv team_template.md team/team_yourteamname/team_yourteamname.md
 #### 3.3 仓库孵化准出
 
 1.申请架构 Team 孵化预审：提交议题。
+
 2.申请质量 Team 孵化准出评审：提交议题。
+
 3.提交仓库孵化准出申请：质量 Team 准出评审通过后，向[contact@cangjie-lang.net](contact@cangjie-lang.net)提交准出申请。
 

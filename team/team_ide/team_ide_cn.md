@@ -16,7 +16,7 @@ Cangjie IDE技术领域竞争力分析和关键技术识别，功能分解分配
 ## Team成员
 
 ### Leader
-- 侯恺
+- 周广宇
 
 ### Committers列表
 

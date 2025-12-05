@@ -1,5 +1,5 @@
 # team_spec
-## Spec Team工作目标和范围
+## Specification Team工作目标和范围
 
 ### 工作目标
 仓颉编程语言SPEC分析和关键技术识别，对应领域特性标准撰写及维护。

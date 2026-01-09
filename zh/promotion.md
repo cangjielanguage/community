@@ -40,7 +40,7 @@
 - 对所申请的仓库代码非常熟悉
 - 可以由对应仓库的审批人或审阅人提名
 
-具体细节请查看：[如何晋升committer](https://gitcode.com/EricHaHaHaHa/CJ_PMC_TEAM/blob/main/Team/committer_nomination_and_widthdrawal.md)
+具体细节请查看：[如何晋升committer](https://gitcode.com/EricHaHaHaHa/community/blob/main/zh/committer_nomination_and_withdraw.md)
 #### 2.1.3 如何成为Team Leader
 
 优秀的仓颉社区 Committer，通过PMC项目管理委员会批准后，可以成为对应的Team/SIG的Team/SIG Leader。

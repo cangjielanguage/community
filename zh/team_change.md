@@ -4,7 +4,7 @@
 
 **Team Lead变更**
 - 现任Team Lead提名或社区推荐候选人
-- 候选人需满足[社区成员资格](community-memship.md)中的相关要求
+- 候选人需满足[社区成员资格](promotion.md)中的相关要求
 - Team内部评审候选人资格
 - 提交PMC批准
 

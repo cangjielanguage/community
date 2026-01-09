@@ -57,13 +57,13 @@ Team 的生命周期包括创建申请、运作、变更和终止四个阶段。
 
 - **运作 (Operation)** Team 批准成立后，即进入其生命周期中的核心活动阶段。在此阶段，Team 遵循其治理章程，通过例会、代码贡献、 技术讨论等方式积极开展工作，以实现其既定目标。Team 的健康状况，如活跃度、贡献产出和社区影响力，将受到持续关注。所有日常运作活动应遵循本指南第三章《Team 运作指南》的详细流程。
 
-- **变更 (Changes)** 当 Team 的工作范围、目标或 Leader 发生重大变化时，需要向 PMC 报备或申请审批。
+- **变更 (Changes)** 当 Team 的工作范围、目标或 Leader 发生重大变化时，需要向 PMC 报备或申请审批 [Team变更细则](https://gitcode.com/EricHaHaHaHa/community/blob/main/zh/team_change.md)。
 
   •Leader 变更：需及时知会 PMC，并更新 Team 组织信息和相关权限。
 
   •范围调整：需与相关 Team 充分沟通，并通过 PMC 评审，确保职责清晰，避免技术领域重叠。
 
-- **终止 (Termination)** 当 Team 完成其历史使命、长期不活跃或其技术方向不再符合社区发展需求时，可以被终止。
+- **终止 (Termination)** 当 Team 完成其历史使命、长期不活跃或其技术方向不再符合社区发展需求时，可以被终止 [Team变更细则](https://gitcode.com/EricHaHaHaHa/community/blob/main/zh/team_change.md)。。
 
   •Team Leader 可向 PMC 主动提交终止申请，并说明理由。
 

@@ -55,5 +55,5 @@
 - [提案管理](https://gitcode.com/Cangjie/community/blob/main/zh/proposal_management.md)
 - [仓颉社区代码仓管理](https://gitcode.com/Cangjie/community/blob/main/zh/repo_management.md)
 - [成长路径](https://gitcode.com/EricHaHaHaHa/community/blob/main/zh/promotion.md)
-- [Team管理制度与操作指南](https://gitcode.com/EricHaHaHaHa/CJ_PMC_TEAM/blob/main/Team/Team_rules_and_regulations/rules_and_regulations.md)
+- [Team管理制度与操作指南](https://gitcode.com/EricHaHaHaHa/community/blob/main/team/README_zh.md)
 

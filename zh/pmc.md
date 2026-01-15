@@ -50,7 +50,7 @@
 | 刘天瑜 |                                       | PMC成员 | QA Team             |
 | 胡晓明 | [@l3gi0n](https://gitcode.com/l3gi0n) | PMC成员 | Tools Team          |
 | 周广宇 |                                       | PMC成员 | IDE Team            |
-|李卓远/虞嘉豪 | [@l3gi0n](https://gitcode.com/l3gi0n) | PMC成员 | Security Team       |
+|李卓远/虞嘉豪 |  | PMC成员 | Security Team       |
 | 朱艳婷 |                                       | PMC成员 | Document Team       |
 | 麻赛军 |                                       | PMC成员 | Infrastructure Team |
 | 曾维林 |                                       | PMC成员 | Release Team        |

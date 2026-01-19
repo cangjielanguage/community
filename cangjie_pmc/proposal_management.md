@@ -14,7 +14,7 @@
 
 ## 2. 流程
 
-![image-20251020201826409](http://image.huawei.com/tiny-lts/v1/images/hi3ms/af4cb552a5868a56e4ad8de7990129dc_1629x485.png)
+![image-20251020201826409](./pictures/proposal_management.png)
 
 ### 2.1 社区讨论
 

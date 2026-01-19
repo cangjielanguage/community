@@ -64,9 +64,9 @@
 
 # 相关管理制度
 
-- [仓颉社区版本管理](https://gitcode.com/Cangjie/community/blob/main/zh/version_management.md)
-- [提案管理](https://gitcode.com/Cangjie/community/blob/main/zh/proposal_management.md)
-- [仓颉社区代码仓管理](https://gitcode.com/Cangjie/community/blob/main/zh/repo_management.md)
-- [成长路径](https://gitcode.com/EricHaHaHaHa/community/blob/main/zh/promotion.md)
-- [Team管理制度与操作指南](https://gitcode.com/EricHaHaHaHa/community/blob/main/team/README_zh.md)
+- [仓颉社区版本管理](https://gitcode.com/Cangjie/community/blob/main/cangjie_pmc/version_management.md)
+- [提案管理](https://gitcode.com/Cangjie/community/blob/main/cangjie_pmc/proposal_management.md)
+- [仓颉社区代码仓管理](https://gitcode.com/Cangjie/community/blob/main/cangjie_pmc/repo_management.md)
+- [成长路径](https://gitcode.com/EricHaHaHaHa/community/blob/main/cangjie_pmc/promotion.md)
+- [Team管理制度与操作指南](https://gitcode.com/Cangjie/community/blob/main/team/README_zh.md)
 

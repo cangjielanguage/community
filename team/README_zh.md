@@ -14,7 +14,7 @@ Team 是在PMC指导下，负责坐在项目特定子领域及创新项目的架
 
 每个 Team 均包含以下核心角色：
 
-•Team Leader(s)：Team 的负责人，通常由 1-2 名在该领域有深入见解和影响力的专家担任。
+•Team Leader：Team 的负责人，通常由 1-2 名在该领域有深入见解和影响力的专家担任，即Team组长与副组长。
 
 •职责:
 
@@ -24,6 +24,7 @@ Team 是在PMC指导下，负责坐在项目特定子领域及创新项目的架
 - 定期向 PMC 和社区汇报 Team 的工作进展、成果与风险。
 - 维护 Team 的健康运作，激励和发展社区成员。
 - 负责 Team 仓库权限和邮件列表等基础设置的管理。
+- 组长拥有Team内部技术和管理的最终决策权。
 
 •Committer：Team 的核心贡献者，在特定代码仓库拥有写权限。
 
@@ -31,7 +32,7 @@ Team 是在PMC指导下，负责坐在项目特定子领域及创新项目的架
 
 - 深度参与 Team 的技术方案设计和讨论, 对其负责专项部分有明确的技术目标和线路图。
 - 积极参与代码审核（Code Review），保障代码质量。
-- 协助Leader（s）维护其负责专项部分的代码仓库。
+- 协助Leader维护其负责专项部分的代码仓库。
 
 
 •Contributor：Team 的核心贡献者，在特定代码仓库拥有写权限。
@@ -109,11 +110,11 @@ Team 的生命周期包括创建申请、运作、变更和终止四个阶段。
 
   •如有疑问，可通过邮件列表 [ dev@cangjie-lang.net](dev@cangjie-lang.net)咨询 PMC。
 
-- 准备 Team 章程与目标：参考 [Team 申请模板 ](https://gitcode.com/Cangjie/SIG/tree/main/sig-template)，准备 Team 章程，并清晰地梳理 Team 的工作目标、范围和预期成果。
+- 准备 Team 章程与目标：参考 [Team 申请模板 ](https://gitcode.com/Cangjie/community/blob/main/template/team_template_cn.md)，准备 Team 章程，并清晰地梳理 Team 的工作目标、范围和预期成果。
 
 #### 1.2 提交申请
 
-- 创建 Team 提案初稿：按照 [Team 申请模板 ](https://gitcode.com/Cangjie/SIG/tree/main/sig-template)撰写提案。
+- 创建 Team 提案初稿：按照 [Team 申请模板 ](https://gitcode.com/Cangjie/community/blob/main/template/team_template_cn.md)撰写提案。
 - 提交 Team 申请议题：将申请议题提交给仓颉社区的 PMC，发起 Team 成立申请。
 
 #### 1.3 PMC 审批提案
@@ -154,15 +155,15 @@ mv team_template.md team/team_yourteamname/team_yourteamname.md
 
   •频率：Team 应定期召开公开会议（线上或线下），保持信息同步和协作。
 
-  •通知：召集人应提前通过邮件列表等方式通知会议时间、地点和议程。
+  •通知：召集人应提前通过邮件列表等方式通知会议时间、地点和议程，会议通知见：community/team_name/meetings/meeting-notices.md。
 
-  •纪要：会后应及时整理会议纪要，记录要点、讨论结果和决策事项，并发布到邮件列表，定期归档到community/team_name/meetings。
+  •纪要：会后应及时整理会议纪要，记录要点、讨论结果和决策事项，并发布到邮件列表，定期归档到community/team_name/meetings，每次会议纪要归档为一个单独md文件，md文件名为“MMMM-YY-DD.md”，会议纪要模板见：https://gitcode.com/Cangjie/community/tree/main/template/meeting-minutes-template.md。
 
 - Team 管理与汇报：
 
   •Team Leader 负责 Team 的日常管理，包括工作方向把控、任务分配等。
 
-  •Team 需定期向 PMC 和社区汇报工作进展与成果，保持信息公开透明。
+  •Team 需定期（至少两个月一次）向 PMC 和社区汇报工作进展与成果，保持信息公开透明。
 
   •若 Team Leader 发生变动，需及时通知 PMC，并更新组织信息和仓库权限。
 

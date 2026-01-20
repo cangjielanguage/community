@@ -30,7 +30,7 @@
 - 至少10个PR的主要审阅人
 - 至少有30个PR的审核意见或30个实质性的代码PR提交
 - 对所申请的仓库代码非常熟悉
-- 由对应仓库的审批人或Team/SIG Leader或PMC提名
+- 由对应仓库的审批人或Team Leader或PMC提名
 
 #### Reviewer审阅人：
 
@@ -43,10 +43,10 @@
 具体细节请查看：[如何晋升committer](https://gitcode.com/EricHaHaHaHa/community/blob/main/zh/committer_nomination_and_withdraw.md)
 #### 2.1.3 如何成为Team Leader
 
-优秀的仓颉社区 Committer，通过PMC项目管理委员会批准后，可以成为对应的Team/SIG的Team/SIG Leader。
+优秀的仓颉社区 Committer，通过PMC项目管理委员会批准后，可以成为对应的Team的Team Leader。
 
 - 新申请Team的Team Leader： 任何开发者可以在社区中寻找2-3个有共同兴趣及目标的开发者，确定Team Leader候选人，通过PMC项目管理委员会发送新建Team的PR申请，经PMC项目管理委员会批准后，可以成为此新Team的Leader。
-- 已有Team的Team Leader： 已经是对应Team/SIG所看护领域的仓库Committer，可以由对应Team的Committer、Team Leader或PMC成员提名。
+- 已有Team的Team Leader： 已经是对应Team所看护领域的仓库Committer，可以由对应Team的Committer、Team Leader或PMC成员提名。
 
 #### 2.1.4 如何晋升PMC
 
@@ -99,4 +99,4 @@
 |      |                                                              |
 | :--- | ------------------------------------------------------------ |
 | 一   | 1.PMC主席自己或委托PMC成员审视并收集非活跃成员名单；<br/> 2.PMC会议不定期审视非活跃成员名单，并对不活跃成员进行退出投票，在获得2/3及以上的参会PMC成员赞成下投票通过。有投票权的到会PMC成员超过应到会PMC成员的一半，会议方为有效。 <br/>3.PMC主席自己或委托PMC成员对投票通过的待退出不活跃成员进行退出处理。 |
-| 二   | 1. 非活跃成员自发邮件申请退出，邮件标题采用“Inactive [Committer/Team/SIG Leader/PMC] xxx”，并发送邮件至仓颉PMC官方邮箱；<br>2. PMC主席自己或委托PMC成员对申请退出的非活跃成员做退出处理。 |
+| 二   | 1. 非活跃成员自发邮件申请退出，邮件标题采用“Inactive [Committer/Team Leader/PMC] xxx”，并发送邮件至仓颉PMC官方邮箱；<br>2. PMC主席自己或委托PMC成员对申请退出的非活跃成员做退出处理。 |

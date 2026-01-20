@@ -16,14 +16,18 @@
 ## Team成员
 
 ### Leader
-- 胡晓明
+- [胡晓明](https://gitcode.com/l3gi0n)/张俊
 
 ### Committers列表
 
 
 
 ### 会议
-敬请期待
+- **会议时间**：每周五 16:30
+- **会议申报**：[Team _Tools Meeting Proposal](https://gitcode.com/Cangjie/community/blob/main/team/team_tools/meetings/meeting-notices.md)
+- **会议链接**: Welink
+- **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [tools@cangjie-lang.cn ](mailto:tools@cangjie-lang.cn) 获取会议链接
+- **会议纪要**：[查看历史会议纪要](https://gitcode.com/Cangjie/community/blob/main/team/team_tools/meetings/)
 
 ### 联系方式
 

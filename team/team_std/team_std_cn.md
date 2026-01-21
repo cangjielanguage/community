@@ -16,7 +16,7 @@
 ## Team成员
 
 ### Leader
-- 查君鹏@ / 虞嘉豪[@ChaosJohn](https://gitcode.com/ChaosJohn)
+- 查君鹏[@ZhaJunpeng](https://gitcode.com/zhajunpeng) / 虞嘉豪[@ChaosJohn](https://gitcode.com/ChaosJohn)
 
 
 

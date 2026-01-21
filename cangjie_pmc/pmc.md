@@ -49,7 +49,7 @@
 | 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC成员 | Specification Team  |
 | 涂玏/轩加振 | [@polarlight1994](https://gitcode.com/polarlight1994) / [@xuanjz](https://gitcode.com/xuanjz) | PMC成员 | Compiler Team       |
 | 傅舟   | [@binaryfz](https://gitcode.com/binaryfz) | PMC成员 | Runtime Team        |
-| 查君鹏/虞嘉豪 | @ / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Standard Libs Team  |
+| 查君鹏/虞嘉豪 | [@ZhaJunpeng](https://gitcode.com/zhajunpeng) / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Standard Libs Team  |
 | 朱佳梦 | [@JasmineZhu](https://gitcode.com/jasminezhu) | PMC成员 | Multi-platform Team |
 | 刘天瑜 | [@BestLeon](https://gitcode.com/bestleon) | PMC成员 | QA Team             |
 | 胡晓明/张俊 | [@l3gi0n](https://gitcode.com/l3gi0n) / [@zjdd](https://gitcode.com/zjdd) | PMC成员 | Tools Team          |

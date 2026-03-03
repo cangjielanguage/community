@@ -9,23 +9,21 @@
   <tr>
     <th>Team</th>
     <th>Team Leader</th>
-    <th>组织</th>
-    <th>项目名称</th>
+    <th>org</th>
+    <th>repo_name</th>
   </tr>
   <tr>
     <td rowspan="1">Architecture Team</td>
     <td rowspan="1"><a href="https://gitcode.com/thumb">@thumb</a></td>
-    <td>Cangjie</td>
+    <td> </td>
     <td><a href=""> </a></td>
   </tr>
   <tr>
     <td rowspan="1">Specification Team</td>
     <td rowspan="1"><a href="https://gitcode.com/thumb">@thumb</a></td>
-    <td>Cangjie</td>
+    <td> </td>
     <td><a href=""> </a></td>
   </tr>
-  
-  
   <tr>
     <td rowspan="2">Compiler Team</td>
     <td rowspan="2"><a href="https://atomgit.com/Timi3">@Timi3</a> / <a href="https://atomgit.com/Jiangjiji0527">@Jiangjiji0527</a></td>

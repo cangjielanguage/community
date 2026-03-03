@@ -13,31 +13,19 @@
     <th>项目名称</th>
   </tr>
   <tr>
-    <td rowspan="6">AIAgent Team</td>
-    <td rowspan="6"><a href="https://atomgit.com/matricping">@matricping</a></td>
-    <td>Cangjie-TPC</td>
-    <td><a href="https://atomgit.com/Cangjie-TPC/MagicExplorer">MagicExplorer</a></td>
-  </tr>
-  <tr>
-    <td>Cangjie-TPC</td>
-    <td><a href="https://atomgit.com/Cangjie-TPC/cangjiexiaozhi">仓颉小智</a></td>
-  </tr>
-  <tr>
-    <td>Cangjie-TPC</td>
-    <td><a href="https://atomgit.com/Cangjie-TPC/CangjieMagic-MCPServer">CangjieMagic-MCPServer</a></td>
-  </tr>
-  <tr>
-    <td>Cangjie-TPC</td>
-    <td><a href="https://atomgit.com/Cangjie-TPC/CangjieMagic">CangjieMagic</a></td>
-  </tr>
-  <tr>
+    <td rowspan="1">Architecture Team</td>
+    <td rowspan="1"><a href="https://gitcode.com/thumb">@thumb</a></td>
     <td>Cangjie</td>
-    <td><a href="https://atomgit.com/Cangjie/CangjieMagic-Examples">CangjieMagic-Examples</a></td>
+    <td><a href=""> </a></td>
   </tr>
   <tr>
+    <td rowspan="1">Specification Team</td>
+    <td rowspan="1"><a href="https://gitcode.com/thumb">@thumb</a></td>
     <td>Cangjie</td>
-    <td><a href="https://atomgit.com/Cangjie/CangjieCorpus">CangjieCorpus</a></td>
+    <td><a href=""> </a></td>
   </tr>
+  
+  
   <tr>
     <td rowspan="2">Compiler Team</td>
     <td rowspan="2"><a href="https://atomgit.com/Timi3">@Timi3</a> / <a href="https://atomgit.com/Jiangjiji0527">@Jiangjiji0527</a></td>
@@ -126,39 +114,39 @@
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/仓颉编程基础及应用_陈波_何睿_重庆大学">仓颉编程基础及应用_陈波_何睿_重庆大学</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/Cangjie_Basics_Application">仓颉编程基础及应用_陈波_何睿_重庆大学</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/图解仓颉高效编程-吴京润">图解仓颉高效编程-吴京润</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/EffectiveCangjieWithDiagrams">图解仓颉高效编程-吴京润</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/仓颉编程快速上手-刘玥_张荣超">仓颉编程快速上手-刘玥_张荣超</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/cangjiebianchengkuaisushangshou-ZRC">仓颉编程快速上手-刘玥_张荣超</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/仓颉语言元编程-张磊">仓颉语言元编程-张磊</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/cangjieyuyanyuanbiancheng-ZL">仓颉语言元编程-张磊</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/仓颉语言程序设计-董昱">仓颉语言程序设计-董昱</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/cangjieyuyanchengxusheji-DY">仓颉语言程序设计-董昱</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/图解仓颉编程-刘玥_张荣超">图解仓颉编程-刘玥_张荣超</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/tujiecangjiebiancheng-ZRC">图解仓颉编程-刘玥_张荣超</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/仓颉程序设计语言-刘安战">仓颉程序设计语言-刘安战</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/cangjiechengxusheji-LAZ">仓颉程序设计语言-刘安战</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/仓颉语言核心编程-徐礼文">仓颉语言核心编程-徐礼文</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/cangjieyuyanhexinbiancheng-XLW">仓颉语言核心编程-徐礼文</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
-    <td><a href="https://atomgit.com/Cangjie-SIG/仓颉语言实战-张磊">仓颉语言实战-张磊</a></td>
+    <td><a href="https://gitcode.com/Cangjie-SIG/cangjieyuyanshizhan-ZL">仓颉语言实战-张磊</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
@@ -1215,5 +1203,31 @@
   <tr>
     <td>Cangjie-SIG</td>
     <td><a href="https://atomgit.com/Cangjie-SIG/excel-cj">excel-cj</a></td>
+  </tr>
+  <tr>
+    <td rowspan="6">AIAgent Team</td>
+    <td rowspan="6"><a href="https://atomgit.com/matricping">@matricping</a></td>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/MagicExplorer">MagicExplorer</a></td>
+  </tr>
+  <tr>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/cangjiexiaozhi">仓颉小智</a></td>
+  </tr>
+  <tr>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/CangjieMagic-MCPServer">CangjieMagic-MCPServer</a></td>
+  </tr>
+  <tr>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/CangjieMagic">CangjieMagic</a></td>
+  </tr>
+  <tr>
+    <td>Cangjie</td>
+    <td><a href="https://atomgit.com/Cangjie/CangjieMagic-Examples">CangjieMagic-Examples</a></td>
+  </tr>
+  <tr>
+    <td>Cangjie</td>
+    <td><a href="https://atomgit.com/Cangjie/CangjieCorpus">CangjieCorpus</a></td>
   </tr>
 </table>

@@ -8,7 +8,7 @@
 
 1. 负责仓颉语言项目的管理工作，包括开源社区版本规划、架构看护、特性代码开发维护、版本及补丁规划等；
 2. 发布和处理仓颉语言项目的需求，为开源社区提供技术架构指导和技术决策；
-3. 处理仓颉语言项目的Bug、issue、邮件列表等渠道开发者反馈问题；
+3. 处理仓颉语言项目的Bug、Issue、邮件列表等渠道开发者反馈问题；
 4. 负责仓颉语言PMC、Committer成员的选举和退出，制定仓颉语言项目的PMC、Committer协作机制；
 
 ## 二、仓颉语言 PMC关键角色
@@ -42,9 +42,9 @@
 
 | 姓名   | 账号                                  | 角色    | 领域                 |
 | ------ | ------------------------------------- | ------- | ------------------- |
-| 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC主席 | 总架构               |
+| 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC主席 | 总架构师        |
 | 董鑫 | [@seanXDO](https://gitcode.com/seanXDO) | PMC成员 | 项目代表 |
-| 徐潇 | [@shawn_xuxiao](https://gitcode.com/shawn_xuxiao) | PMC成员 | 终端架构师 |
+| 徐潇 | [@shawn_xuxiao](https://gitcode.com/shawn_xuxiao) | PMC成员 | 仓颉终端架构师 |
 | 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC成员 | Architecture Team |
 | 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC成员 | Specification Team  |
 | 吴家文/蒋继极 | [@Timi3](https://gitcode.com/timi3) / [@Jiangjiji0527](https://gitcode.com/jiangjiji0527) | PMC成员 | Compiler Team       |

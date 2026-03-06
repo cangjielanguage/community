@@ -14,7 +14,13 @@
 
 ## 2. 流程
 
-![image-20251020201826409](./pictures/proposal_management.png)
+
+
+![img](./pictures/proposal_process.png)
+
+其中，识别/整理/提交提案流程遵循以下过程：
+
+![img](./pictures/proposal_management.png)
 
 ### 2.1 社区讨论
 

@@ -2,11 +2,10 @@
 ## QA Team 工作目标和范围
 
 ### 工作目标
-提升仓颉社区的质量和测试能力。
+QA团队的目标是负责社区开发、治理、运营等流程规范的制定和发布。
 
 ### 工作范围
-- QA团队的目标是测试构成仓颉发布版的软件，目标是提升仓颉社区的质量和测试能力。
-- QA team aims to test softwares make up Cangjie release, our goal is to improve Cangjie community quality and testing capability.
+- QA团队的目标是负责社区开发、治理、运营等流程规范的制定和发布；<br/>制定社区奖惩机制，例行跟踪社区运营问题。
 
 
 
@@ -17,7 +16,7 @@
 ## Team成员
 
 ### Leader
-- 刘天瑜[@BestLeon](https://gitcode.com/bestleon)
+-  雷钟凯[@kaiuestc](https://gitcode.com/kaiuestc)
 
 
 

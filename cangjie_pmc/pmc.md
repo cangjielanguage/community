@@ -27,7 +27,8 @@
 |IDE Team| 仓颉IDE技术领域竞争力分析和关键技术识别，功能分解分配，模块间接口定义与维护管理，对应领域特性代码开发维护等;<br/>负责仓颉IDE技术领域系统设计方案的技术评审，技术决策，模块关键技术问题解决;<br/>负责仓颉IDE技术领域的社区需求技术规划和梳理对应领域的共建需求梳理;<br/>代表仓颉IDE技术领域参加仓颉社区的峰会和布道。|
 |Security Team|安全技术领域竞争力分析和关键技术识别，功能分解分配，模块间接口定义与维护管理，对应领域特性代码开发维护等;<br/>负责安全技术领域系统设计方案的技术评审，技术决策，模块关键技术问题解决;<br/>负责安全技术领域的社区需求技术规划和梳理对应领域的共建需求梳理;<br/>代表安全技术领域参加仓颉社区的峰会和布道。|
 |Release Team | 负责版本时间表制定和发布，在开发/测试周期中跟踪版本交付特性状态；<br/>组织发布相关评审，协调QA，发布工程师，技术委员会等参与发布相关会议完成版本发布评估；<br/> 负责项目交付过程的协调。|
-| QA Team | QA团队的目标是测试构成仓颉发布版的软件，目标是提升仓颉社区的质量和测试能力。<br/>QA team aims to test softwares make up Cangjie release, our goal is to improve Cangjie community quality and testing capability。|
+| QA Team | QA团队的目标是负责社区开发、治理、运营等流程规范的制定和发布；<br/>制定社区奖惩机制，例行跟踪社区运营问题。|
+| 测试 Team | 构建社区测试能力，让更多的社区开发者参与、贡献构建仓颉编程语言测试能力；<br/>根据版本计划制定测试计划、规划测试活动，看护版本关键软件包质量；<br/>参与制定、维护发布标准，参与管理发布过程，决策阻塞问题和关键缺陷的修复计划。|
 |  Infrastructure Team  | 安全CICD领域竞争力分析和关键技术识别，功能分解分配，模块间接口定义与维护管理，对应领域特性代码开发维护等; <br/>负责CICD领域系统设计方案的技术评审，技术决策，模块关键技术问题解决; <br/>负责CICD领域的社区需求技术规划和梳理对应领域的共建需求梳理。|
 | Document Team  | 文档规划和信息架构设计、文档版本生命周期管理，风格指南等质量保证和标准化规范制定、文档贡献流程建设、文档维护更新、审核文档、响应并处理社区文档问题反馈。|
 |InterOp Team|  负责互操作技术领域的竞争力分析、关键技术识别与突破，主导功能分解、接口定义与维护管理，构建易用、高性能的互操作能力；<br/>主导系统设计方案评审与技术决策，解决关键技术问题，确保技术方案与架构的先进性与可行性；<br/>统筹互操作领域代码开发、维护及质量保障，通过架构设计与代码审核，推动高质量代码合入主干；<br/>规划互操作社区需求技术方案，梳理共建需求，推动开源社区问题闭环与技术方案落地；|
@@ -51,7 +52,8 @@
 | 傅舟   | [@binaryfz](https://gitcode.com/binaryfz) | PMC成员 | Runtime Team        |
 | 查君鹏/虞嘉豪 | [@ZhaJunpeng](https://gitcode.com/zhajunpeng) / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Standard Libs Team  |
 | 朱佳梦 | [@JasmineZhu](https://gitcode.com/jasminezhu) | PMC成员 | Multi-platform Team |
-| 刘天瑜 | [@BestLeon](https://gitcode.com/bestleon) | PMC成员 | QA Team             |
+| 雷钟凯 | [@kaiuestc](https://gitcode.com/kaiuestc) | PMC成员 | QA Team |
+| 刘天瑜/雷明凤 | [@BestLeon](https://gitcode.com/bestleon) / [@lei_la](https://gitcode.com/lei_la) | PMC成员 | Test Team             |
 | 胡晓明/张俊 | [@l3gi0n](https://gitcode.com/l3gi0n) / [@zjdd](https://gitcode.com/zjdd) | PMC成员 | Tools Team          |
 | 周广宇 | [@Timzhou](https://gitcode.com/Timzhou) | PMC成员 | IDE Team            |
 |李卓远/虞嘉豪 | [@zhuoyuanli](https://gitcode.com/zhuoyuanli) / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Security Team       |

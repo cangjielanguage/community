@@ -173,7 +173,7 @@
     <td><a href="https://atomgit.com/Cangjie/cangjie_runtime">cangjie_runtime</a></td>
   </tr>
   <tr>
-    <td rowspan="8">Stand Libs Team</td>
+    <td rowspan="8">Libs Team</td>
     <td rowspan="8"><a href="https://atomgit.com/ZhaJunpeng">@ZhaJunpeng</a> / <a href="https://atomgit.com/ChaosJohn">@ChaosJohn</a></td>
     <td>Cangjie-TPC</td>
     <td><a href="https://gitcode.com/Cangjie-TPC/cjfast_json">fast_json_cj</a></td>

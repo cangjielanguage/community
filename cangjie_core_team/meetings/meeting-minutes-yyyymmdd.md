@@ -1,15 +1,15 @@
-会议：[组织名]-例会-[日期]（组织名为社区治理架构中的组织名称，日期格式为YYYY-MM-DD，例如：PMC-例会-2025-12-10）
+会议：[组织名]-例会-[日期]（组织名为社区治理架构中的组织名称，日期格式为YYYY-MM-DD，例如：Cangjie Core Team-例会-2025-12-10）
 
 ## 参会人员 (Attendance)
 
-| 姓名         | 账号                          |
-| ------------ | ----------------------------- |
-| xxx          | gitcode账号以及个人主页超链接 |
-| 议题相关人员 | 议题相关人员                  |
+| 姓名 | 账号                          |
+| ---- | ----------------------------- |
+| xxx  | gitcode账号以及个人主页超链接 |
+| Xxx  | gitcode账号以及个人主页超链接 |
 
 ## 议题(Agenda)
 
-议题列表（超链接指向组织目录下的）
+[议题列表](https://gitcode.com/Cangjie/community/blob/main/cangjie_core_team/meetings/meeting-notices.md)
 
 ## 会议纪要(Minute of Meeting)
 

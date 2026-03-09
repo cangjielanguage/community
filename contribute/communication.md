@@ -25,7 +25,7 @@
 | runtime@cangjie-lang.net     | 运行时团队邮件列表   | 运行时技术领域                                         | [订阅](http://lists.cangjie-lang.net/postorius/lists/runtime.cangjie-lang.net) |
 | tools@cangjie-lang.net       | 工具团队邮件列表     | 工具链技术领域                                         | [订阅](http://lists.cangjie-lang.net/postorius/lists/tools.cangjie-lang.net) |
 | ide@cangjie-lang.net         | IDE团队邮件列表      | IDE技术领域                                            | [订阅](http://lists.cangjie-lang.net/postorius/lists/ide.cangjie-lang.net) |
-| std@cangjie-lang.net         | 标准库团队邮件列表   | 标准库领域                                             | [订阅](http://lists.cangjie-lang.net/postorius/lists/std.cangjie-lang.net) |
+| std@cangjie-lang.net         | 语言库团队邮件列表   | 语言库领域                                             | [订阅](http://lists.cangjie-lang.net/postorius/lists/std.cangjie-lang.net) |
 | docs@cangjie-lang.net        | 文档团队邮件列表     | 文档体验优化                                           | [订阅](http://lists.cangjie-lang.net/postorius/lists/docs.cangjie-lang.net) |
 | security@cangjie-lang.net    | 安全团队邮件列表     | 安全技术领域，订阅和反馈安全问题                       | [订阅](http://lists.cangjie-lang.net/postorius/lists/security.cangjie-lang.net) |
 | cicd@cangjie-lang.net        | CI邮件列表           | CICD构建邮件列表，任何开发者可订阅                     | [订阅](http://lists.cangjie-lang.net/postorius/lists/cicd.cangjie-lang.net) |

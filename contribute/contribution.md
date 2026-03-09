@@ -110,9 +110,9 @@
 - 基于仓库dev分支开发，代码修改完成后提交到 Fork 仓。
 - 仓库列表：
     - https://gitcode.com/Cangjie/cangjie_compiler    # 仓颉编译器仓库
-    - https://gitcode.com/Cangjie/cangjie_runtime     # 仓颉运行时仓库
+    - https://gitcode.com/Cangjie/cangjie_runtime     # 仓颉运行时&标准库仓库
     - https://gitcode.com/Cangjie/cangjie_tools       # 仓颉工具链仓库
-    - https://gitcode.com/Cangjie/cangjie_stdx        # 仓颉标准库仓库
+    - https://gitcode.com/Cangjie/cangjie_stdx        # 仓颉扩展库仓库
     - https://gitcode.com/Cangjie/llvm-project        # LLVM项目仓库（仓颉依赖）
     - https://gitcode.com/Cangjie/cangjie_test        # 仓颉测试用例仓库
     - https://gitcode.com/Cangjie/cangjie_test_framework  # 仓颉测试框架仓库

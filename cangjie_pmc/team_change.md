@@ -2,11 +2,10 @@
 
 ### 角色变更
 
-**Team Lead变更**
-- 现任Team Lead提名或社区推荐候选人
-- 候选人需满足[社区成员资格](promotion.md)中的相关要求
-- Team内部评审候选人资格
-- 提交PMC批准
+**Team Leader变更**
+
+- 各 Team 设置 Team Leader 一名，首界 Team Leader 由 PMC 任命，后续由 Team Leader 提名或 Team 成员中选举、并由 PMC 任命产生
+- Team Leader 任职条件需满足[社区成长路径](promotion.md)中规定的相关要求
 
 **其他关键角色变更**
 - 由Team Leader发起提名

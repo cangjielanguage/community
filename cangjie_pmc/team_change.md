@@ -7,15 +7,17 @@
 - 各 Team 设置 Team Leader 一名，首界 Team Leader 由 PMC 任命，后续由 Team Leader 提名或 Team 成员中选举、并由 PMC 任命产生
 - Team Leader 任职条件需满足[社区成长路径](promotion.md)中规定的相关要求
 
-**其他关键角色变更**
-- 由Team Leader发起提名
-- Team内部评审
-- 重要角色变更需通知PMC
+**其他角色变更**
 
-**角色退出**
-- 成员可随时主动退出
-- 退出时应提名继任者或协助寻找继任者
-- Team Leader负责确保关键角色不空缺超过1个月
+- 由Team Leader发起提名
+- Team选举产生
+- 变更结果须在PMC同步
+
+**角色退出与罢免**
+
+- 退出：Team Leader需提前 30 个工作日通过邮件等书面方式通知PMC，新任Team Leader经Team成员选举产生；其他角色由需提前 30 个工作日通过邮件等书面方式通知Team Leader，新任角色经Team Leader提名和Team选举产生
+- 罢免：PMC提出对Team Leader或其他角色的罢免并通过PMC的罢免决议
+- Team Leader和Committer的空缺不能超过1个月
 
 ### Team合并
 

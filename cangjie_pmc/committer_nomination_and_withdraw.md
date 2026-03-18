@@ -1,4 +1,4 @@
-## 完整的Committer推举/退出以及添加/删除Committer权限的完整流程如下：
+## Committer管理
 
 ![Committer推举/退出流程](./figures/committer_change_flow.png)
 
@@ -10,31 +10,32 @@
   #### 1.1 概述：
 
   **推举概述示例：**
+  
   ```
   xxx_Team的Committer gitcode_id (email address) 提名 gitcode_id (email address) 为 repository_address仓的社区Committer。
   xxx 个人贡献的简要一句话介绍。请大家回复邮件投票，赞成请回复 +1，不赞成请回复 -1 及不赞成原因。
   ```
-
+  
   **退出概述示例：**
   ```
   由于工作变动，申请退出 xxx 仓库committer
   ```
-
+  
   #### 1.2 贡献举证：
-
+  
   - **PR 贡献**（实质代码贡献的链接）：
     - [PR 1](https://gitcode.com/Cangjie/community/pull/1)
     - [PR 2](https://gitcode.com/Cangjie/community/pull/2)
     - ...
-
+  
   - **PR 有效检视** (参与仓颉语言社区代码有效评论意见的链接)：
     - [Review 1](https://gitcode.com/Cangjie/community/pull/1)
     - [Review 2](https://gitcode.com/Cangjie/community/pull/2)
     - ...
-
+  
   - **参与XXX社区推广**：
     - [文章链接](https://mp.weixin.qq.com/s/zLNukoY1iDKCbOHuVI0D8w)
-
+  
   - **参与技术峰会**：
     202x年 参加仓颉语言开发者大会、仓颉语言技术峰会、开放原子全球开源峰会的 **《XXX议题》**
 
@@ -52,7 +53,7 @@
   3. gitcode id url: [gitcode id的链接](https://gitcode.com/xxx)
   4. gitcode id associated email: [个人企业邮箱/Enterprise Email], 若是个人贡献者可以填写自己关联gitcode的个人邮箱
 
-  ```
+```
 
 ### 3. 在Team管理平台提交committer新增/退出申请
 

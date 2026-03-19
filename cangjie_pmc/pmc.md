@@ -43,11 +43,9 @@
 
 | 姓名   | 账号                                  | 角色    | 领域                 |
 | ------ | ------------------------------------- | ------- | ------------------- |
-| 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC主席 | 总架构师        |
+| 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC主席 | 总架构师、Architecture/Specification Team |
 | 董鑫 | [@seanXDO](https://gitcode.com/seanXDO) | PMC成员 | 项目代表 |
 | 徐潇 | [@shawn_xuxiao](https://gitcode.com/shawn_xuxiao) | PMC成员 | 仓颉终端架构师 |
-| 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC成员 | Architecture Team |
-| 冯新宇 | [@thumb](https://gitcode.com/thumb) | PMC成员 | Specification Team  |
 | 吴家文/蒋继极 | [@Timi3](https://gitcode.com/timi3) / [@Jiangjiji0527](https://gitcode.com/jiangjiji0527) | PMC成员 | Compiler Team       |
 | 傅舟   | [@binaryfz](https://gitcode.com/binaryfz) | PMC成员 | Runtime Team        |
 | 查君鹏/虞嘉豪 | [@ZhaJunpeng](https://gitcode.com/zhajunpeng) / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Libs Team  |
@@ -58,10 +56,9 @@
 | 周广宇 | [@Timzhou](https://gitcode.com/Timzhou) | PMC成员 | IDE Team            |
 |李卓远/虞嘉豪 | [@zhuoyuanli](https://gitcode.com/zhuoyuanli) / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Security Team       |
 | 赵文远/朱艳婷 | [@huster_zwy](https://gitcode.com/huster_zwy) / [@amy_mayun](https://gitcode.com/amy_mayun) | PMC成员 | Document Team       |
-| 麻赛军 | [@masaijun](https://gitcode.com/masaijun) | PMC成员 | Infrastructure Team |
+| 麻赛军 | [@masaijun](https://gitcode.com/masaijun) | PMC成员 | Infrastructure/TPC Team |
 | 曾维林/刘军 | [@frank83](https://gitcode.com/frank83) / [@r4hl](https://gitcode.com/r4hl) | PMC成员 | Release Team        |
 | 轩加振 | [@xuanjz](https://gitcode.com/xuanjz) | PMC成员 | InterOp Team       |
-| 麻赛军 | [@masaijun](https://gitcode.com/masaijun) | PMC成员 |TPC Team       |
 | 赵平 | [@matricping](https://gitcode.com/matrixping) | PMC成员 |AI Agent  Team       |
 
 

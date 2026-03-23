@@ -1,4 +1,4 @@
-## Committer推举/退出流程
+## Committer推举/退出流程	
 
 ## 1. 由Commiter发起推举/退出邮件
 

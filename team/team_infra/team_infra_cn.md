@@ -28,7 +28,7 @@
 - **会议时间**：每周五 16:30
 - **会议申报**：[Team_Infrastructure Meeting Proposal](https://gitcode.com/Cangjie/community/blob/main/team/team_infra/meetings/meeting-notices.md)
 - **会议链接**: Welink
-- **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [cide@cangjie-lang.cn ](mailto:cicd@cangjie-lang.cn) 获取会议链接
+- **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [cide@cangjie-lang.net ](mailto:cicd@cangjie-lang.net) 获取会议链接
 - **会议纪要**：[查看历史会议纪要](https://gitcode.com/Cangjie/community/blob/main/team/team_infra/meetings/)
 
 

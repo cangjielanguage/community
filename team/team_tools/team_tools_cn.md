@@ -27,7 +27,7 @@
 - **会议时间**：双周一 9:30
 - **会议申报**：[Team _Tools Meeting Proposal](https://gitcode.com/Cangjie/community/blob/main/team/team_tools/meetings/meeting-notices.md)
 - **会议链接**: Welink
-- **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [tools@cangjie-lang.cn ](mailto:tools@cangjie-lang.cn) 获取会议链接
+- **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [tools@cangjie-lang.net ](mailto:tools@cangjie-lang.net) 获取会议链接
 - **会议纪要**：[查看历史会议纪要](https://gitcode.com/Cangjie/community/blob/main/team/team_tools/meetings/)
 
 

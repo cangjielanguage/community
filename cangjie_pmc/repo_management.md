@@ -26,7 +26,7 @@
 ### 基础配置
 
 #### 代码仓命名
-建议代码仓采用`cangjie_`开头的方式进行命名，单词使用小写开头，单词之间采用下划线分隔；例如：仓颉跨平台互操作仓库名字为`cangjie_multiplatform_interop`
+建议代码仓采用`cangjie_`开头的方式进行命名，单词使用小写开头，单词之间采用下划线分隔。例如：仓颉跨平台互操作仓库名字为`cangjie_multiplatform_interop`。
 
 #### 其他配置
 默认分支选择开发分支（默认为**main**，详细分支策略参考分支管理章节），项目模块取消勾选wiki及安全漏洞(成体系的文档应通过专门的资料代码或者资料文档仓库管理，没有明确的wiki用途使用，禁止勾选，可基于明确用途CMC评审备案后打开。漏洞通过仓颉官网专门邮件途径反馈)。
@@ -81,14 +81,14 @@ Commiter需要配置如下权限：
 
 #### 提交设置
 
-社区提交log建议采用[conventional commits 通用提交规范](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
+社区提交log建议采用[conventional commits 通用提交规范](https://www.conventionalcommits.org/zh-hans/v1.0.0/)。
 
 
 仓库检查正则配置如下：
 
     ^(?<type>feat|fix|docs|style|refactor|test|chore|perf|build|ci|revert)(\((?<scope>[\w\-]+)\))?!?:\s(?<description>.{1,72})$
 
-仓库提交文件限制建议限制在100M以内，且禁止强制推送
+仓库提交文件限制建议限制在100M以内，且禁止强制推送。
 
  ![提交设置](pictures\提交设置.png "Request Config")  
 

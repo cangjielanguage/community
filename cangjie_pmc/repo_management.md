@@ -9,7 +9,7 @@
 ## 代码仓建立
 代码仓归属于某个项目，所以建仓需要由该项目向对应`PMC`提交申请，`PMC`评审通过，并明确仓库责任`Team`后，由`PMC`授权管理员执行建仓，同时更新`PMC`的`Team`仓库归属文档。
 
-原则上，进入`PMC`发布版本的仓库须在`PMC`评审后执行建仓，不进入`PMC`的仓库在`Team`评审后可执行建仓，同时须在后续向`PMC`同步。
+原则上，进入`PMC`发布版本的仓库须在`PMC`评审后执行建仓，不进入`PMC`的仓库在`Team`评审通过后可执行建仓，同时须在后续向`PMC`通过同步建仓申请。
 
 `PMC`可在自身权限范围内下放仓库评审权限。
 
@@ -26,7 +26,7 @@
 ### 基础配置
 
 #### 代码仓命名
-建议代码仓采用`cangjie_`开头的方式进行命名，单词使用小写开头，单词之间采用下划线分隔；例如：仓颉跨平台互操作仓库名字为`cangjie_multiplatform_interop`
+建议代码仓采用`cangjie_`开头的方式进行命名，单词使用小写开头，单词之间采用下划线分隔。例如：仓颉跨平台互操作仓库名字为`cangjie_multiplatform_interop`。
 
 #### 其他配置
 默认分支选择开发分支（默认为**main**，详细分支策略参考分支管理章节），项目模块取消勾选wiki及安全漏洞(成体系的文档应通过专门的资料代码或者资料文档仓库管理，没有明确的wiki用途使用，禁止勾选，可基于明确用途CMC评审备案后打开。漏洞通过仓颉官网专门邮件途径反馈)。
@@ -81,14 +81,14 @@ Commiter需要配置如下权限：
 
 #### 提交设置
 
-社区提交log建议采用[conventional commits 通用提交规范](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
+社区提交log建议采用[conventional commits 通用提交规范](https://www.conventionalcommits.org/zh-hans/v1.0.0/)。
 
 
 仓库检查正则配置如下：
 
     ^(?<type>feat|fix|docs|style|refactor|test|chore|perf|build|ci|revert)(\((?<scope>[\w\-]+)\))?!?:\s(?<description>.{1,72})$
 
-仓库提交文件限制建议限制在100M以内，且禁止强制推送
+仓库提交文件限制建议限制在100M以内，且禁止强制推送。
 
  ![提交设置](pictures\提交设置.png "Request Config")  
 

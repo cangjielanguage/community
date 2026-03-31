@@ -18,11 +18,11 @@
 
 #### 2.1.1 如何成为Contributor
 
-普通社区用户通过认领issue的方式提交PR，贡献代码，被Committer合入后即可成为Contributor。
+普通社区用户通过认领issue，并提交PR贡献代码，PR成功合入后成为Contributor。
 
 #### 2.1.2 如何晋升Committer
 
-优秀的仓颉社区贡献者，经现任PMC/Committer提名和投票后，可以成为仓颉社区Committer，Committer按照权限可分为Approver审批人和Reviewer审阅人。
+优秀的仓颉社区Contributor，达成Committer要求后，经现任PMC/Committer提名和投票后，可以成为仓颉社区Committer，Committer按照权限可分为Approver审批人和Reviewer审阅人。
 
 #### Approver审批人：
 
@@ -40,7 +40,7 @@
 - 对所申请的仓库代码非常熟悉
 - 可以由对应仓库的审批人或审阅人提名
 
-具体细节请查看：[如何晋升committer](https://gitcode.com/EricHaHaHaHa/community/blob/main/zh/committer_nomination_and_withdraw.md)
+操作指导请见：[如何晋升committer](https://gitcode.com/EricHaHaHaHa/community/blob/main/zh/committer_nomination_and_withdraw.md)
 #### 2.1.3 如何成为Team Leader
 
 优秀的仓颉社区 Committer，通过PMC项目管理委员会批准后，可以成为对应的Team的Team Leader。
@@ -50,7 +50,7 @@
 
 #### 2.1.4 如何晋升PMC成员
 
-优秀的仓颉社区Committer，经现任PMC成员提议和投票后，可以成为仓颉社区PMC。
+优秀的仓颉社区Committer，经现任PMC成员提议和投票后，可以成为仓颉社区PMC成员。
 
 ### 2.2 晋升Committer投票流程
 

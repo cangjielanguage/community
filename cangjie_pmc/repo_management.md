@@ -29,13 +29,13 @@
 
 - **功能约束**：除经 PMC 评审备案的特殊用途外，代码仓原则上取消 Wiki 与安全漏洞反馈模块。文档应通过专门的资料仓管理，安全漏洞须通过官网邮件渠道反馈。
 
-![基础配置](pictures\基础配置.PNG "Project module")
+![基础配置](./pictures/基础配置.png)
 
 ### **2.  分支与 Tag 管理**
 
 - **工作流模式**：社区统一采取 Fork 开发工作流，原则上禁止开发者直接在主仓库创建分支。
 
-![仓库管理](pictures\仓库管理.png "Repo manage")
+![仓库管理](./pictures/仓库管理.png)
 
 - **分支命名策略**：分支命名须具备明确语义，遵循以下正则表达式：`^(feature|bugfix|release)/[a-z0-9.-]+$`。
   - **发布分支**：以 `release/v<版本号>` 格式命名。
@@ -57,7 +57,7 @@
 
 - **操作禁令**：严禁执行强制推送（Force Push）操作。
 
-![提交设置](pictures\提交设置.png "Request Config")
+![提交设置](./pictures/提交设置.png "Request Config")
 
 ### **2.  权限控制**
 
@@ -65,15 +65,15 @@
 
 - **Developer**：拥有基础的开发协作权限。
 
-![Developer权限](pictures\Developer权限.PNG "Developer")
+![Developer权限](./pictures/Developer权限.png "Developer")
 
 - **Committer**：拥有代码评审及合入控制权限。
 
-![Commiter权限](pictures\Commiter权限.PNG "Commiter")
+![Commiter权限](./pictures/Commiter权限.png "Commiter")
 
 - **保护分支**：默认开发分支、发布分支及 LTS 版本分支须设置为保护分支。
 
-![保护分支](pictures\保护分支.png "Protect Branch")
+![保护分支](./pictures/保护分支.png "Protect Branch")
 
 
 
@@ -83,7 +83,7 @@
 
 - **多员检视**：每个 PR 至少须有两名评审人（Developer 或 Committer）评审通过。
 
-![合入条件](pictures\合入条件.png "Merge Request")
+![合入条件](./pictures/合入条件.png "Merge Request")
 
 - **问题闭环**：检视发现的所有意见必须实质性解决，严禁未经确认直接标记为解决。
 
@@ -91,7 +91,7 @@
 
 - **协议合规**：所有 PR 必须通过 CLA（贡献者许可协议）校验。
 
-![CLA 协议](pictures\CLA协议.png "CLA")
+![CLA 协议](./pictures/CLA协议.png "CLA")
 
 
 
@@ -99,15 +99,15 @@
 
 - **合入限制**：严禁“自提自合”（即提交者与合入者为同一人），严禁强制合入。所有合并必须通过 Fork 方式进行。
 
-![Pull Request](pictures\PullRequests设置.png "Pull Request")
+![Pull Request](./pictures/PullRequests设置.png "Pull Request")
 
 - **信息保留**：为保留项目原始提交脉络，原则上建议禁止 Squash 合并方式。
 
-![Squash](pictures\Squash合并.png "Squash")
+![Squash](./pictures/Squash合并.png "Squash")
 
 - **最小审查**：PR 最终必须由至少一名 Committer 审查通过后方可合入。
 
-![PR审查](pictures\PR审查.png "PR")
+![PR审查](./pictures/PR审查.png "PR")
 
 ## 六、 代码仓毕业
 
@@ -120,13 +120,13 @@
 - **准出终审阶段**：
   - 核心仓库：在通过预审后，提交议题至[「QA Team 例会评审」](../team/team_qa/meetings)申请孵化准出评审，须确保所有遗留问题已闭环解决。
   - 非核心仓库：向所属 Team 提交孵化准出终审议题，须确保所有遗留问题已闭环解决。
-- **正式准出（毕业）：**向 contact@cangjie-lang.net 提交最终准出申请，正式完成从孵化态向成熟态的转变，将代码仓迁移至[Cangjie](https://gitcode.com/Cangjie)/[Cangjie-TPC](https://gitcode.com/Cangjie-TPC)组织。
+- **正式准出（毕业）** ：向 contact@cangjie-lang.net 提交最终准出申请，正式完成从孵化态向成熟态的转变，将代码仓迁移至[Cangjie](https://gitcode.com/Cangjie)/[Cangjie-TPC](https://gitcode.com/Cangjie-TPC)组织。
 
-### 2**. 仓库变更申请（新增、退休、更名及开源引入）**
+### **2. 仓库变更申请（新增、退休、更名及开源引入）**
 
 - **架构评审**：凡涉及核心仓库的新增、退休、更名或外部开源软件的引入，均须首先提交 PMC 进行专业评审；非核心仓库相关操作须在所属 Team 内部处理。
 
 - **执行路径**：
-- **申请流程**：架构 Team 评审通过后，申请人须根据变更需求发起邮件申请。
+	- **申请流程**：架构 Team 评审通过后，申请人须根据变更需求发起邮件申请。
   
-- **联系渠道**：新增、退休或更名操作须统一通过联系官方邮箱（contact@cangjie-lang.net）进行确认与后台处理。
+	- **联系渠道**：新增、退休或更名操作须统一通过联系官方邮箱（contact@cangjie-lang.net）进行确认与后台处理。

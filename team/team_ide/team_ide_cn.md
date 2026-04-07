@@ -23,7 +23,7 @@ Cangjie IDE技术领域竞争力分析和关键技术识别，功能分解分配
 
 ### 会议
 
-- **会议时间**：每周五 16:30
+- **会议时间**：双周二 14:30
 - **会议申报**：[Team_IDE Meeting Proposal](https://gitcode.com/Cangjie/community/blob/main/team/team_ide/meetings/meeting-notices.md)
 - **会议链接**: Welink
 - **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [ide@cangjie-lang.net ](mailto:ide@cangjie-lang.net) 获取会议链接

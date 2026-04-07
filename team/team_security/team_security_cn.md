@@ -24,7 +24,7 @@
 
 
 ### 会议
-- **会议时间**：每周五 16:30
+- **会议时间**：每月初
 - **会议申报**：[Team_Security Meeting Proposal](https://gitcode.com/Cangjie/community/blob/main/team/team_security/meetings/meeting-notices.md)
 - **会议链接**: Welink
 - **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [security@cangjie-lang.net ](mailto:security@cangjie-lang.net) 获取会议链接

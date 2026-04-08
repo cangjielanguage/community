@@ -19,16 +19,15 @@
 ## Team成员
 
 ### Leader
-- 轩加振[@xuanjz](https://gitcode.com/xuanjz)
-
+- 轩加振[@xuanjz](https://gitcode.com/xuanjz) / 高翔[@gaoxiang999](https://gitcode.com/gaoxiang999)
 
 
 
 ### 会议
-- **会议时间**：每周五 16:30
+- **会议时间**：双周四 上午10:00
 - **会议申报**：[Team_InterOp Meeting Proposal](https://gitcode.com/Cangjie/community/blob/main/team/team_interop/meetings/meeting-notices.md)
 - **会议链接**: Welink
-- **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [dev@cangjie-lang.net ](mailto:dev@cangjie-lang.net) 获取会议链接
+- **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [interop@cangjie-lang.net ](mailto:interop@cangjie-lang.net) 获取会议链接
 - **会议纪要**：[查看历史会议纪要](https://gitcode.com/Cangjie/community/blob/main/team/team_interop/meetings/)
 
 

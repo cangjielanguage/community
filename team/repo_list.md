@@ -1213,8 +1213,8 @@
     <td><a href="https://atomgit.com/Cangjie-TPC/cangjiexiaozhi">仓颉小智</a></td>
   </tr>
   <tr>
-    <td>Cangjie-TPC</td>
-    <td><a href="https://atomgit.com/Cangjie-TPC/CangjieMagic-MCPServer">CangjieMagic-MCPServer</a></td>
+    <td>Cangjie-SIG</td>
+    <td><a href="https://atomgit.com/Cangjie-SIG/magic-cli">magic-cli</a></td>
   </tr>
   <tr>
     <td>Cangjie-TPC</td>

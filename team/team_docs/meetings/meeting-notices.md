@@ -7,3 +7,7 @@
 ||||| best_practice仓库新建审视 | 10 | 朱艳婷 ||
 ||||| issue处理进展同步 | 10 | 朱艳婷 ||
 ||||| 例会运作机制&下期预告 | 5 | 朱艳婷 ||
+| 2    | [第2次例会](https://app.huawei.com/wmeeting/join/99352483/OJeSxtLN7ExTWXIlUfyyvqcHDsfKt5vjI) | 461586 | 2026-04-20 | 如何参与社区文档贡献 | 20 | luojianing ||
+||||| Issue 处理进展 | 5 | guoyuqing ||
+||||| 如何导出 PR 检视意见 | 10 | guoyuqing ||
+||||| 下期预告 | 5 | luojianing ||

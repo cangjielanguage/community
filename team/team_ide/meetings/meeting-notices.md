@@ -4,4 +4,6 @@
 | ---- | ----------------- | ---------- | -------- | ---------- | ----------------- | ----------------- | -------- |
 | 1    | [第1次例会](https://app.huawei.com/wmeeting/join/96275269/T5Q0FUiL9I9TkpZtz5OUxCXK7CENz23OT) | 2026-04-07 | 705416 | IDE Team 例会机制 | 5 | 周广宇 |  |
 | 2    | [第2次例会](https://app.huawei.com/wmeeting/join/96662218/mytRrS4BjVepkW00vjrY1XYMpVrUy9cIt) | 2026-04-21 | 833963 | IDE Team 例会机制 | 5 | 周广宇 |  |
-| 3    |  |  |          |            |                   |                   |  |
+| 3    |  |  |          | 社区issue讨论 | 15  | 杨威 |  |
+| 4    | [第3次例会](https://app.huawei.com/wmeeting/join/97818652/7TX75EV7qkGBJ6KV6QmMvivXk1tuhcNuN) | 2026-05-06 | 966731 | IDE Team 例会机制 | 5 | 周广宇 |  |
+| 5    |  |  |          | 社区issue讨论 | 15  | 杨威 |  |

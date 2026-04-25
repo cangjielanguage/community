@@ -31,9 +31,9 @@
   - 同意建仓，考虑与仓颉社区tree-sitter-cangjie仓库owner沟通共建
 - 社区 issue 讨论：
   - 需求
-    -https://gitcode.com/Cangjie/UsersForum/issues/3174 
+    - https://gitcode.com/Cangjie/UsersForum/issues/3174 
     启用workspace方式有问题，应按照仓颉配置方式
-    -https://gitcode.com/Cangjie/UsersForum/issues/3167
+    - https://gitcode.com/Cangjie/UsersForum/issues/3167
     已支持此功能，考虑重试
     - https://gitcode.com/Cangjie/UsersForum/issues/3166
     正在整改，相关团队处理，暂时关闭issue

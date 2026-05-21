@@ -1,13 +1,11 @@
-会议：IDE Team-例会-2026-05-06
+会议：IDE Team-例会-2026-05-19
 
 ## 参会人员 (Attendance)
 
 | 姓名         | 账号                          |
 | ------------ | ----------------------------- |
 | Tim Zhou     | https://gitcode.com/TimZhou |
-| Cangjie-Chenminglei | https://gitcode.com/chenminglei |
-| Cangjie-YangWei | https://gitcode.com/2301_81676461 |
-| Cangjie-yuanke | https://gitcode.com/ennka |
+| Chang_Lu | https://gitcode.com/Chang_Lu |
 | zhic | https://gitcode.com/zhiczhao |
 | lilei-ide | https://gitcode.com/lilei-ide |
 
@@ -16,7 +14,8 @@
 | 编号 | 议题名称 | 议题内容 | 汇报人 |
 | --- | --- | --- | --- |
 | 1 | PMC 信息传递 | IDE Team 例会机制 | Tim Zhou |
-| 2 | 社区 issue 讨论 | 社区 issue 讨论 | Cangjie-YangWei |
+| 2 | debug_adapter建仓申请 | debug_adapter建仓申请 | lilei-ide |
+| 3 | cangjie_agentic仓申请 | cangjie_agentic仓申请 | Chang_Lu |
 
 ## 会议纪要(Minute of Meeting)
 
@@ -29,17 +28,10 @@
     - 建仓审视 —— 审视建仓申请
     - 社区问题讨论 —— 针对仓库 issue 协同社区开发者讨论解决方案
     - 优秀实践分享 —— 收集社区开发者的优秀实践案例，邀请在会上进行分享
-- 社区 issue 讨论：
-  - 需求
-    - https://gitcode.com/Cangjie/UsersForum/issues/2997 \
-    结论：指导用户完成调试配置项，指导文档需补充信息
-    - https://gitcode.com/Cangjie/UsersForum/issues/2873 \
-    结论：launch.json需要加入stdx引用配置字段后启动调试
-  - Bug
-    - https://gitcode.com/Cangjie/UsersForum/issues/3223 \
-    结论：nightly开发态版本sdk可能与官网插件存在不兼容问题，需用户补充插件版本号或切换为LTS版本SDK后复现，如仍存在问题从宏展开场景入手分析
-    - https://gitcode.com/Cangjie/UsersForum/issues/3167 \
-    结论：暂保持规格，后续作为bug修复
+- debug_adapter建仓申请：
+  - 同意建仓，用于调试Server开源
+- cangjie_agentic仓申请：
+  - 同意建仓，在Cangjie-TPC下创建cangjie_agentic仓，用于归档Agentic插件交付件。
 
 遗留问题：
 - ~~联系仓颉社区tree-sitter-cangjie仓库owner沟通共建。 责任人：Cangjie-YangWei 闭环时间：2026-05-06~~ \

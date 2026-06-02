@@ -17,7 +17,7 @@ AI Agent技术领域竞争力分析和关键技术识别，功能分解分配，
 ## Team成员
 
 ### Leader
-- 赵平[@matricping](https://gitcode.com/matrixping)
+- 杨典[@ydgzb](https://gitcode.com/ydgzb)
 
 
 

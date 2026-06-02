@@ -19,7 +19,7 @@
 
 ### Leader
 
-- 朱佳梦[@JasmineZhu](https://gitcode.com/jasminezhu)
+- 朱凯迪[@Boommmmmm](https://gitcode.com/Boommmmmm)
 
 ### 会议
 

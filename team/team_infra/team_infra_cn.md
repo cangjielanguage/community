@@ -18,7 +18,7 @@
 ## Team成员
 
 ### Leader
-- 麻赛军[@masaijun](https://gitcode.com/masaijun)
+- 周晶[@zhoujing106](https://gitcode.com/zhoujing106)
 
 
 

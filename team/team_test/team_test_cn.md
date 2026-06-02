@@ -20,7 +20,7 @@
 
 ### Leader
 
-- 刘天瑜[@BestLeon](https://gitcode.com/bestleon)/雷明凤[@lei_la](https://gitcode.com/lei_la) 
+- 刘天瑜[@BestLeon](https://gitcode.com/bestleon)/胡彬彬[@Gcouragea](https://gitcode.com/Gcourage) 
 
 
 

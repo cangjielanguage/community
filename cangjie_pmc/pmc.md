@@ -49,7 +49,7 @@
 | 吴家文/蒋继极 | [@Timi3](https://gitcode.com/timi3) / [@Jiangjiji0527](https://gitcode.com/jiangjiji0527) | PMC成员 | Compiler Team       |
 | 傅舟   | [@binaryfz](https://gitcode.com/binaryfz) | PMC成员 | Runtime Team        |
 | 查君鹏/虞嘉豪 | [@ZhaJunpeng](https://gitcode.com/zhajunpeng) / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Libs Team  |
-| 朱凯迪 | [@JasmineZhu](https://gitcode.com/jasminezhu) | PMC成员 | Multi-platform Team |
+| 朱凯迪 | [@Boommmmmm](https://gitcode.com/Boommmmmm) | PMC成员 | Multi-platform Team |
 | 雷钟凯 | [@kaiuestc](https://gitcode.com/kaiuestc) | PMC成员 | QA Team |
 | 刘天瑜/胡彬彬 | [@BestLeon](https://gitcode.com/bestleon) / [@Gcourage](https://gitcode.com/Gcourage) | PMC成员 | Test Team             |
 | 胡晓明/张俊 | [@l3gi0n](https://gitcode.com/l3gi0n) / [@zjdd](https://gitcode.com/zjdd) | PMC成员 | Tools Team          |

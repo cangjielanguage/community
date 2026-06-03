@@ -11,5 +11,5 @@
 | 7    |  |  |          | debug_adapter建仓申请 | 15  | 李磊 |  |
 | 8    |  |  |          | 社区issue讨论 | 15  | 杨威 |  |
 | 9    | [第5次例会](https://app.huawei.com/wmeeting/join/97588360/EQd26bn8SDPzQj9i2huvyjJNPzUvLwTCX) | 2026-06-02 | 446020 | IDE Team 例会机制 | 5 | 周广宇 |  |
-| 10    |  |  |          | angjie_deveco_plugins建仓申请 | 15  | 李磊 |  |
+| 10    |  |  |          | Cangjie_deveco_plugins建仓申请 | 15  | 李磊 |  |
 | 11    |  |  |          | 社区issue讨论 | 15  | 杨威 |  |

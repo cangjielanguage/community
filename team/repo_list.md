@@ -41,10 +41,18 @@
     <td><a href="https://atomgit.com/Cangjie/cangjie_docs">cangjie_docs</a></td>
   </tr>
   <tr>
-    <td rowspan="1">IDE Team</td>
-    <td rowspan="1"><a href="https://atomgit.com/Timzhou">@Timzhou</a></td>
+    <td rowspan="3">IDE Team</td>
+    <td rowspan="3"><a href="https://atomgit.com/Timzhou">@Timzhou</a></td>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/vscode_cangjie">vscode_cangjie</a></td>
+   </tr>
+   <tr>
+    <td>Cangjie</td>
+    <td><a href="https://atomgit.com/Cangjie/cangjie_debug_adapter">cangjie_debug_adapter</a></td>
+   </tr>
+   <tr>
+    <td>Cangjie</td>
+    <td><a href="https://atomgit.com/Cangjie/cangjie_deveco_plugins">cangjie_deveco_plugins</a></td>
   </tr>
   <tr>
     <td rowspan="2">Infrastructure Team</td>

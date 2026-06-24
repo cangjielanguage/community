@@ -4,7 +4,7 @@
 | -------------------- | ---------------- |
 | **Next update**      | **January 2027** |
 
-欢迎来到 Cangjie 路线图！抢先了解 Cangjie 社区的优先事项。
+欢迎来到 Cangjie roadmap！抢先了解 Cangjie 社区的优先事项。
 
 ## 关键优先事项
 

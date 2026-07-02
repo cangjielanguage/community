@@ -2,7 +2,7 @@
 
 本文档旨在为仓颉语言PMC下各个Team明确仓库责任田。
 
-社区项目数量共计 320 个，其中精品三方库项目共计 290 个。
+社区项目数量共计 321 个，其中精品三方库项目共计 291 个。
 
 ## 一、仓颉语言 PMC仓库归属关系列表
 
@@ -43,18 +43,22 @@
     <td><a href="https://atomgit.com/Cangjie/cangjie_docs">cangjie_docs</a></td>
   </tr>
   <tr>
-    <td rowspan="3">IDE Team</td>
-    <td rowspan="3"><a href="https://atomgit.com/Timzhou">@Timzhou</a></td>
+    <td rowspan="4">IDE Team</td>
+    <td rowspan="4"><a href="https://atomgit.com/Timzhou">@Timzhou</a></td>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/vscode_cangjie">vscode_cangjie</a></td>
-   </tr>
-   <tr>
+  </tr>
+  <tr>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/cangjie_debug_adapter">cangjie_debug_adapter</a></td>
-   </tr>
-   <tr>
+  </tr>
+  <tr>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/cangjie_deveco_plugins">cangjie_deveco_plugins</a></td>
+  </tr>
+  <tr>
+    <td>Cangjie-SIG</td>
+    <td><a href="https://atomgit.com/Cangjie-SIG/cangjie_toml_plugin">cangjie_toml_plugin</a></td>
   </tr>
   <tr>
     <td rowspan="2">Infrastructure Team</td>

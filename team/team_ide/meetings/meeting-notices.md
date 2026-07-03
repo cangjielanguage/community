@@ -16,3 +16,5 @@
 | 12   | [第6次例会](https://app.huawei.com/wmeeting/join/97860563/RGzBgKUhvnBOQUpjdAwfZkRvaOLCImgQg) | 2026-06-16 | 848986 | IDE Team 例会机制 | 5 | 周广宇 |  |
 | 13   |  |  |          | 社区issue讨论 | 45  | 杨威 |  |
 | 14   |  |  |          | Cangjie_toml_plugin建仓申请 | 15  | 陈明磊 |  |
+| 15   | [第7次例会](https://app.huawei.com/wmeeting/join/95424476/ea7bcFKuZnUTogODzVIeaYQt9o5R6b2PR) | 2026-07-07 | 198567 | IDE Team 例会机制 | 5 | 周广宇 |  |
+| 16   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |

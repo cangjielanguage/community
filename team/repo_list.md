@@ -240,6 +240,10 @@
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/cjc-hotfix-plugin">cjc-hotfix-plugin</a></td>
   </tr>
+    <tr>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/avif-ffi">avif-ffi</a></td>
+  </tr>
   <tr>
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/appauth4cj">appauth4cj</a></td>

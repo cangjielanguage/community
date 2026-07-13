@@ -2,7 +2,7 @@
 
 本文档旨在为仓颉语言PMC下各个Team明确仓库责任田。
 
-社区项目数量共计 317 个，其中精品三方库项目共计 289 个。
+社区项目数量共计 319 个，其中精品三方库项目共计 289 个。
 
 ## 一、仓颉语言 PMC仓库归属关系列表
 
@@ -223,8 +223,8 @@
     <td><a href="https://atomgit.com/Cangjie/cangjie_tools">cangjie_tools</a></td>
   </tr>
   <tr>
-    <td rowspan="249">TPC Team</td>
-    <td rowspan="249"><a href="https://atomgit.com/masaijun">@masaijun</a></td>
+    <td rowspan="251">TPC Team</td>
+    <td rowspan="251"><a href="https://atomgit.com/masaijun">@masaijun</a></td>
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/lottie-ffi">lottie-ffi</a></td>
   </tr>
@@ -232,7 +232,15 @@
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/ribbon4cj">ribbon4cj</a></td>
   </tr>
+   <tr>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/cbc-engine">cbc-engine</a></td>
+  </tr>
   <tr>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/cjc-hotfix-plugin">cjc-hotfix-plugin</a></td>
+  </tr>
+    <tr>
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/avif-ffi">avif-ffi</a></td>
   </tr>

@@ -12,8 +12,8 @@
 |5|第5次例会(https://app.huawei.com/wmeeting/join/97470377/0mLv2J7J9OMYPO30Ly1xdtXybfN9evzHC)|2026-7-9    14:15-17:00|标准库适配local mode策略|90|||
 ||第5次例会(https://app.huawei.com/wmeeting/join/97470377/0mLv2J7J9OMYPO30Ly1xdtXybfN9evzHC)|2026-7-9    14:15-17:00|VArray栈大小超限编译期报错|15|||
 ||第5次例会(https://app.huawei.com/wmeeting/join/97470377/0mLv2J7J9OMYPO30Ly1xdtXybfN9evzHC)|2026-7-9    14:15-17:00|标准库不兼容变更评审|60|||
-||第6次例会(https://app.huawei.com/wmeeting/join/97470377/0mLv2J7J9OMYPO30Ly1xdtXybfN9evzHC)|2026-7-16   15:00-17:00|标准库不兼容变更评审|60|||
-||第6次例会|2026-7-16   16:00-17:00|基于Extern Type的仓颉互操作能力设计|60|||
+||第6次例会(https://app.huawei.com/wmeeting/join/97470377/0mLv2J7J9OMYPO30Ly1xdtXybfN9evzHC)|2026-7-16   15:15-16:15|标准库不兼容变更评审|60|||
+||第6次例会|2026-7-16   16:15-17:15|基于Extern Type的仓颉互操作能力设计|60|||
 ||||||||
 
 会议密码：458353

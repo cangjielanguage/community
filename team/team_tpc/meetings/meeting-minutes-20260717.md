@@ -5,9 +5,9 @@
 | 姓名   | 账号                          |
 | ------ | ----------------------------- |
 | 夏松   | [xdst](https://gitcode.com/xdst) |
-| 麻赛军 |                              |
-| 方维   |                              |
-| 王焱济 |                              |
+| 麻赛军 | [masaijun](https://gitcode.com/masaijun) |
+| 方维   | [wayne29](https://gitcode.com/wayne29) |
+| 王焱济 | [cangjie-wangyanji](https://gitcode.com/cangjie-wangyanji) |
 | 陈成   |                              |
 
 ## 议题(Agenda)

@@ -8,7 +8,7 @@
 | 麻赛军 | [masaijun](https://gitcode.com/masaijun) |
 | 方维   | [wayne29](https://gitcode.com/wayne29) |
 | 王焱济 | [cangjie-wangyanji](https://gitcode.com/cangjie-wangyanji) |
-| 陈成   |                              |
+| 陈成   | [czj18069891265](https://gitcode.com/czj18069891265) |
 
 ## 议题(Agenda)
 

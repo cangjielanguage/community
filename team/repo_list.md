@@ -2,7 +2,7 @@
 
 本文档旨在为仓颉语言PMC下各个Team明确仓库责任田。
 
-社区项目数量共计 319 个，其中精品三方库项目共计 289 个。
+社区项目数量共计 320 个，其中精品三方库项目共计 290 个。
 
 ## 一、仓颉语言 PMC仓库归属关系列表
 
@@ -1229,8 +1229,8 @@
     <td><a href="https://atomgit.com/Cangjie-SIG/json-validator-schema-cj">excel-cj</a></td>
   </tr>
   <tr>
-    <td rowspan="6">AIAgent Team</td>
-    <td rowspan="6"><a href="https://atomgit.com/matricping">@matricping</a></td>
+    <td rowspan="7">AIAgent Team</td>
+    <td rowspan="7"><a href="https://atomgit.com/matricping">@matricping</a></td>
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/MagicExplorer">MagicExplorer</a></td>
   </tr>
@@ -1253,5 +1253,9 @@
   <tr>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/CangjieCorpus">CangjieCorpus</a></td>
+  </tr>
+    <tr>
+    <td>Cangjie-SIG</td>
+    <td><a href="https://atomgit.com/Cangjie-SIG/SpecLang">SpecLang</a></td>
   </tr>
 </table>

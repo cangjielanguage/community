@@ -50,7 +50,7 @@
 | 傅舟   | [@binaryfz](https://gitcode.com/binaryfz) | PMC成员 | Runtime Team        |
 | 查君鹏/虞嘉豪 | [@ZhaJunpeng](https://gitcode.com/zhajunpeng) / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Libs Team  |
 | 朱凯迪 | [@Boommmmmm](https://gitcode.com/Boommmmmm) | PMC成员 | Multi-platform Team |
-| 刘晓莹 | [@](https://gitcode.com/xxx) | PMC成员 | QA Team |
+| 刘晓莹 | [@liuxiaoying](https://gitcode.com/gcw_soeAfXvg) | PMC成员 | QA Team |
 | 刘天瑜/胡彬彬 | [@BestLeon](https://gitcode.com/bestleon) / [@Gcourage](https://gitcode.com/Gcourage) | PMC成员 | Test Team             |
 | 胡晓明/张俊 | [@l3gi0n](https://gitcode.com/l3gi0n) / [@zjdd](https://gitcode.com/zjdd) | PMC成员 | Tools Team          |
 | 周广宇 | [@Timzhou](https://gitcode.com/Timzhou) | PMC成员 | IDE Team            |

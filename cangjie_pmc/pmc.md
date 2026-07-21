@@ -55,7 +55,7 @@
 | 胡晓明/张俊 | [@l3gi0n](https://gitcode.com/l3gi0n) / [@zjdd](https://gitcode.com/zjdd) | PMC成员 | Tools Team          |
 | 周广宇 | [@Timzhou](https://gitcode.com/Timzhou) | PMC成员 | IDE Team            |
 |李卓远/虞嘉豪 | [@zhuoyuanli](https://gitcode.com/zhuoyuanli) / [@ChaosJohn](https://gitcode.com/ChaosJohn) | PMC成员 | Security Team       |
-| 朱艳婷 |  [@amy_mayun](https://gitcode.com/amy_mayun) | PMC成员 | Document Team       |
+| 朱艳婷 | [@amy_mayun](https://gitcode.com/amy_mayun) | PMC成员 | Document Team       |
 | 夏松 | [@xdst ](https://gitcode.com/xdst ) | PMC成员 | TPC Team |
 | 周晶 | [@zhoujing106 ](https://gitcode.com/zhoujing106) | PMC成员 | Infrastructure Team |
 | 曾维林/刘军 | [@frank83](https://gitcode.com/frank83) / [@r4hl](https://gitcode.com/r4hl) | PMC成员 | Release Team        |

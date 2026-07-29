@@ -1,0 +1,28 @@
+name: "PMC议题收集|PMC Agenda Collection"
+description: "提交PMC会议议题收集，请使用此模板。 Please use this template when you want to collect agendas for the PMC meeting."
+title: "[PMC Agenda Collection]: "
+labels: ["pmc-agenda-collection"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢对仓颉社区PMC的关注与支持，欢迎提交PMC会议议题。 | Thanks for your support and attention to the community PMC. We welcome agenda proposals for PMC meetings.
+  - type: textarea
+    attributes:
+      label: "议题收集时间 | Agenda collection period"
+      description: "本次议题收集的时间范围： | The time range for this agenda collection period."
+      placeholder: "xx月xx日 ~ xx月xx日"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        请使用如下模板提交议题收集： | Please use the following template to submit the agenda collection:
+        ```
+        议题名称： | Agenda name:
+        议题时长(分钟)： | Agenda duration (minutes):
+        议题汇报人： | Agenda presenter:
+        议题领域： | Agenda domain:
+        议题领域PMC委员预审意见： | PMC member pre-review opinion for the agenda domain:
+        ```

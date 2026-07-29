@@ -84,9 +84,21 @@
    Add xx feature for xxx, it can xxxx.
 
    Refs: #12
+
+   Assisted-by: Opencode
+   Signed-off-by: xxx <xxx@xxx.com>
    ```
    
    更多 commit 风格信息参考[Conventional Commits（约定式提交规范）](https://www.conventionalcommits.org/zh-hans/v1.0.0/)。
+
+   在仓颉社区的开源代码贡献规范中，如果您使用了 AI 工具辅助编写代码，须在 commit 末尾强制标注 `Assisted-by` 标签以明确 AI 的辅助贡献。格式如下：
+
+   ```
+   Assisted-by: <AI工具名称>   # 例如：Assisted-by: Opencode
+   Signed-off-by: xxx <xxx@xxx.com>
+   ```
+
+   > **注意**：人类开发者必须对 AI 生成的每一行代码进行审查，确保其在功能、安全和许可证（License）合规上完全符合规范。若代码部署后出现漏洞或版权纠纷，最终责任由提供 `Signed-off-by` 的人类提交者承担。
 
 3.  **将变更推送到您的远端目录**
 
@@ -256,3 +268,45 @@
 ​	<img src="image/pr_success.png" alt="pr_success" style="zoom:75%;" />
 
 <img src="image/build_job.png" alt="build_job"/>
+## 版本变化说明<a name="section_version_changelog"></a>
+
+### 版本历史
+
+本文档记录了仓颉社区贡献流程的版本更新历史，便于贡献者了解流程的变化。
+
+---
+
+#### 2026-06-22
+
+**变更内容**：
+- 新增 AI 辅助编码贡献规范：明确使用 AI 工具辅助编写代码时须在 commit 末尾标注 `Assisted-by` 标签，并强调人类开发者对 AI 生成代码的审查责任
+
+---
+
+#### 2025-12-29
+
+**变更内容**：
+- 明确 Issue 创建规则：补充说明不要重复创建多个相同 Issue，多个目标分支的 PR 可以同时使用一个 Issue 触发门禁
+- 新增版本变化说明章节，用于记录文档和流程的重要变更历史
+
+---
+
+#### 2025-12-24
+
+**变更内容**：
+- 新增 sync 标签使用规则：明确从其他分支 cherry-pick 的同步改动需要关联 sync 标签
+- 优化 PR Label 关联说明的结构和表述
+
+---
+
+#### 2025-12-23
+
+**变更内容**：
+- 完善 Issue 创建时的 Label 关联规则说明，明确缺陷类和需求类 Issue 的版本号 Label 关联要求
+- 优化 PR 创建重要提示，要求变更内容描述信息充分详细，并提供必要的编译和自验证结果
+- 简化门禁触发规则描述，移除冗余的门禁类型判定说明
+- 优化 PR 关联规则表述，明确同一仓库内同一目标合入分支的限制
+
+---
+
+**注意**：版本变化说明将在此处持续更新，记录每次重要的流程变更和文档更新。

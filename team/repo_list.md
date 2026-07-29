@@ -2,7 +2,7 @@
 
 本文档旨在为仓颉语言PMC下各个Team明确仓库责任田。
 
-社区项目数量共计 315 个，其中精品三方库项目共计 287 个。
+社区项目数量共计 321 个，其中精品三方库项目共计 291 个。
 
 ## 一、仓颉语言 PMC仓库归属关系列表
 
@@ -43,18 +43,22 @@
     <td><a href="https://atomgit.com/Cangjie/cangjie_docs">cangjie_docs</a></td>
   </tr>
   <tr>
-    <td rowspan="3">IDE Team</td>
-    <td rowspan="3"><a href="https://atomgit.com/Timzhou">@Timzhou</a></td>
+    <td rowspan="4">IDE Team</td>
+    <td rowspan="4"><a href="https://atomgit.com/Timzhou">@Timzhou</a></td>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/vscode_cangjie">vscode_cangjie</a></td>
-   </tr>
-   <tr>
+  </tr>
+  <tr>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/cangjie_debug_adapter">cangjie_debug_adapter</a></td>
-   </tr>
-   <tr>
+  </tr>
+  <tr>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/cangjie_deveco_plugins">cangjie_deveco_plugins</a></td>
+  </tr>
+  <tr>
+    <td>Cangjie-SIG</td>
+    <td><a href="https://atomgit.com/Cangjie-SIG/cangjie_toml_plugin">cangjie_toml_plugin</a></td>
   </tr>
   <tr>
     <td rowspan="2">Infrastructure Team</td>
@@ -223,8 +227,8 @@
     <td><a href="https://atomgit.com/Cangjie/cangjie_tools">cangjie_tools</a></td>
   </tr>
   <tr>
-    <td rowspan="247">TPC Team</td>
-    <td rowspan="247"><a href="https://atomgit.com/masaijun">@masaijun</a></td>
+    <td rowspan="251">TPC Team</td>
+    <td rowspan="251"><a href="https://atomgit.com/masaijun">@masaijun</a></td>
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/lottie-ffi">lottie-ffi</a></td>
   </tr>
@@ -232,7 +236,15 @@
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/ribbon4cj">ribbon4cj</a></td>
   </tr>
+   <tr>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/cbc-engine">cbc-engine</a></td>
+  </tr>
   <tr>
+    <td>Cangjie-TPC</td>
+    <td><a href="https://atomgit.com/Cangjie-TPC/cjc-hotfix-plugin">cjc-hotfix-plugin</a></td>
+  </tr>
+    <tr>
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/avif-ffi">avif-ffi</a></td>
   </tr>
@@ -1213,8 +1225,16 @@
     <td><a href="https://atomgit.com/Cangjie-SIG/excel-cj">excel-cj</a></td>
   </tr>
   <tr>
-    <td rowspan="6">AIAgent Team</td>
-    <td rowspan="6"><a href="https://atomgit.com/matricping">@matricping</a></td>
+    <td>Cangjie-SIG</td>
+    <td><a href="https://atomgit.com/Cangjie-SIG/thrift4cj">excel-cj</a></td>
+  </tr>
+  <tr>
+    <td>Cangjie-SIG</td>
+    <td><a href="https://atomgit.com/Cangjie-SIG/json-validator-schema-cj">excel-cj</a></td>
+  </tr>
+  <tr>
+    <td rowspan="7">AIAgent Team</td>
+    <td rowspan="7"><a href="https://atomgit.com/matricping">@matricping</a></td>
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/MagicExplorer">MagicExplorer</a></td>
   </tr>
@@ -1237,5 +1257,9 @@
   <tr>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/CangjieCorpus">CangjieCorpus</a></td>
+  </tr>
+    <tr>
+    <td>Cangjie-SIG</td>
+    <td><a href="https://atomgit.com/Cangjie-SIG/SpecLang">SpecLang</a></td>
   </tr>
 </table>

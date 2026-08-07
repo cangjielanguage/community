@@ -4,5 +4,6 @@
 | ---- | ----------------- | ---------- | ---------- | -------- | ---------- | ----------------- | ----------------- |
 | 1    | [仓颉TPC Team Leader 内部选举](https://app.huawei.com/wmeeting/join/96855189/njzeyZK3Bsk2QaMJPeRmggPpGUGiLHxnI) | 243161 | 2026-07-17 | 仓颉TPC Team Leader 内部选举 | 60 | 陈成/hangzhoujiechuang@petalmail.com |  |
 | 2    | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/487637928585/54124bfbccf6d34c49ac7d6d56151386bea6ed63f1ac05a8c1325c27d8bc99cc?meetingType=wiseCloud) | 465684373 | 2026-08-03 | 1.三方库开发进展                      2.未公开仓库评审 | 60 | 方维/fangwei51@h-partners.com | 夏松/xiasong.831184@huawei.com |
-| 3    | 第2次例会(超链接) |          | MMMM-YY-DD |          |            |                   |                   |
+| 3    | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/492603175001/766c9956ffc11dda69d50abdfa093f576d16962e4c3792c452e040da6e8979fb?meetingType=wiseCloud) | 019664781 | 2026-08-10 | 仓颉三方库Team例会 | 60 | 方维/fangwei51@h-partners.com |  |
+| 4    | 第3次例会(超链接) |          | MMMM-YY-DD |          |            |                   |                   |
 

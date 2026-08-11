@@ -188,10 +188,10 @@ mv team_template.md team/team_yourteamname/team_yourteamname.md
 - 开源软件引入。
 - 按目标归属组织分别提交议题进行评审：Cangjie 组织仓库向 PMC 提交议题评审，Cangjie-SIG、Cangjie-TPC 组织仓库向 TPC Team 提交议题评审。
 
-2.发送申请邮件：评审通过后，根据需求提交建仓申请。
+2.执行建仓申请：评审通过后，按目标归属组织分别执行：
 
-- 新增仓：联系[contact@cangjie-lang.net](contact@cangjie-lang.net)。
-- 仓库退休/更名：联系[contact@cangjie-lang.net](contact@cangjie-lang.net)。
+- Cangjie 组织仓库：由 Team Leader 向 PMC 申报议题，通过 PMC 会议评审后执行建仓/退休/更名。
+- Cangjie-SIG、Cangjie-TPC 组织仓库：按对应组织的建仓申请模板（Cangjie-SIG 模板、Cangjie-TPC 模板）发送邮件至 [contact@cangjie-lang.net](contact@cangjie-lang.net) 完成建仓；仓库退休/更名亦通过该渠道办理。
 
 #### 3.3 仓库孵化准出
 

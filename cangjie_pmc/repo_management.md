@@ -15,8 +15,8 @@
 仓颉社区根据仓库性质与治理层级，将代码仓统一归口至下列三个 Gitcode 组织承载，建仓申请须首先明确目标归属组织：
 
 - **[Cangjie](https://gitcode.com/Cangjie) 组织**：承载仓颉语言项目版本相关各 Team 作业仓库、仓颉社区章程和用户论坛仓库，以及持续维护的社区运作相关仓库。
-- **[Cangjie-SIG](https://gitcode.com/Cangjie-SIG) 组织**：开放邮件申请建仓申请途径，由 TPC Team 负责审核和管理，承载非三方库项目；其邮件建仓申请检查模板由 TPC Team 制定并维护，与 Cangjie-TPC 模板区分使用。
-- **[Cangjie-TPC](https://gitcode.com/Cangjie-TPC) 组织**：承载仓颉三方库、工具等项目。
+- **[Cangjie-SIG](https://gitcode.com/Cangjie-SIG) 组织**：承载非三方库项目；开放邮件申请建仓申请途径，由 TPC Team 负责审核和管理。
+- **[Cangjie-TPC](https://gitcode.com/Cangjie-TPC) 组织**：承载仓颉三方库、工具等项目；开放邮件申请建仓申请途径，由 TPC Team 负责审核和管理。
 
 ## 二、 代码仓建立与准入<a id="section2"></a>
 

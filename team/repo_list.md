@@ -2,7 +2,7 @@
 
 本文档旨在为仓颉语言PMC下各个Team明确仓库责任田。
 
-社区项目数量共计 321 个，其中精品三方库项目共计 291 个。
+社区项目数量共计 322 个，其中精品三方库项目共计 291 个。
 
 ## 一、仓颉语言 PMC仓库归属关系列表
 
@@ -17,7 +17,8 @@
   <tr>
     <td rowspan="1">Architecture Team</td>
     <td rowspan="1"><a href="https://gitcode.com/thumb">@thumb</a></td>
-    <td> </td>
+    <td>Cangjie</td>
+    <td><a href="https://atomgit.com/Cangjie/proposal">proposal</a></td>
     <td><a href=""> </a></td>
   </tr>
   <tr>

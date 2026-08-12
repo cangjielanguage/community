@@ -169,33 +169,4 @@ mv team_template.md team/team_yourteamname/team_yourteamname.md
 
 ### 3.仓库管理
 
-仓库评审路径按目标归属组织分级执行：Cangjie 组织仓库（含版本主干仓库及社区运作相关仓库）由 PMC 评审，由 Team Leader 申请议题，可按需触发 PMC 例会；Cangjie-SIG、Cangjie-TPC 组织仓库由 TPC Team 评审。下文孵化流程中的"评审"环节均按此分级原则执行。
-
-#### 3.1仓颉项目仓库孵化流程
-
-仓颉项目仓库从开源建仓到孵化成熟，通常需经历以下阶段：
-1.新建仓库申请：向对应权限组织提交新建仓库申请议题——Cangjie 组织仓库向 PMC 申请，Cangjie-SIG、Cangjie-TPC 组织仓库向 TPC Team 申请。
-2.孵化准出预审：向架构 Team 提交孵化准出预审议题。
-3.孵化准出终审：向 QA Team 提交孵化准出终审议题，解决所有遗留问题后完成准出。
-
-注意：新建仓库必须配置至少 2 名 Committer 以支持代码交叉检视（cross review）；满足基本合规要求，完成孵化仓目标准出的关联仓的联合构建。
-
-#### 3.2 仓库新增、退休、更名申请
-
-1.申请对应权限组织评审：
-
-- 新增、退休、更名。
-- 开源软件引入。
-- 按目标归属组织分别提交议题进行评审：Cangjie 组织仓库向 PMC 提交议题评审，Cangjie-SIG、Cangjie-TPC 组织仓库向 TPC Team 提交议题评审。
-
-2.执行建仓申请：评审通过后，按目标归属组织分别执行：
-
-- Cangjie 组织仓库：由 Team Leader 向 PMC 申报议题，通过 PMC 会议评审后执行建仓/退休/更名。
-- Cangjie-SIG、Cangjie-TPC 组织仓库：按对应组织的建仓申请模板（Cangjie-SIG 模板、Cangjie-TPC 模板）发送邮件至 [contact@cangjie-lang.net](contact@cangjie-lang.net) 完成建仓；仓库退休/更名亦通过该渠道办理。
-
-#### 3.3 仓库孵化准出
-
-1.申请架构 Team 孵化预审：提交议题。
-2.申请质量 Team 孵化准出评审：提交议题。
-3.提交仓库孵化准出申请：质量 Team 准出评审通过后，向[contact@cangjie-lang.net](contact@cangjie-lang.net)提交准出申请。
-
+仓库管理请参考[仓颉社区仓库管理](./repo_management.md)

@@ -2,13 +2,15 @@
 ## TPC Team工作目标和范围
 
 ### 工作目标
-编译器技术领域竞争力分析和关键技术识别，功能分解分配，模块间接口定义与维护管理，对应领域特性代码开发维护等。
+承担仓颉精品三方库的开发、维护和管理；为 [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) 的项目制定打分、排名和推荐标准，并维护 [Cangjie-TPC 组织首页](https://atomgit.com/cangjie-tpc) "精选项目"板块。
 
 ### 工作范围
--  三方库技术领域竞争力分析和关键技术识别，功能分解分配，模块间接口定义与维护管理，对应领域特性代码开发维护等;
--  负责三方库领域系统设计方案的技术评审，技术决策，模块关键技术问题解决;
--  负责三方库技术领域的社区需求技术规划和梳理对应领域的共建需求梳理;
--  代表三方库技术领域参加仓颉社区的峰会和布道。
+- 承担仓颉精品三方库的开发、维护和管理；为 Cangjie-TPC 组织下项目制定打分、排名和推荐标准，并维护 [Cangjie-TPC 组织首页](https://atomgit.com/cangjie-tpc) "精选项目"板块；
+- 负责 Cangjie-SIG、Cangjie-TPC 组织下仓库建仓申请的审核与管理；
+- 统筹三方库技术领域竞争力分析与关键技术识别，功能分解分配，模块间接口定义与维护管理，对应领域特性代码开发维护等;
+- 负责三方库领域系统设计方案的技术评审，技术决策，模块关键技术问题解决;
+- 负责三方库技术领域的社区需求技术规划和梳理对应领域的共建需求梳理;
+- 代表三方库技术领域参加仓颉社区的峰会和布道。
 
 
 
@@ -25,7 +27,7 @@
 
 
 ### 会议
-- **会议时间**：每周五 16:30
+- **会议时间**：每周一 09:10
 - **会议申报**：[Team_TPC Meeting Proposal](https://gitcode.com/Cangjie/community/blob/main/team/team_tpc/meetings/meeting-notices.md)
 - **会议链接**: Welink
 - **会议通知**: 请[订阅](https://cangjie-lang.cn/pages/maillist)邮件列表 [dev@cangjie-lang.net ](mailto:dev@cangjie-lang.net) 获取会议链接

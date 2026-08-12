@@ -223,7 +223,7 @@
   </tr>
   <tr>
     <td rowspan="1">Tools Team</td>
-    <td rowspan="1"><a href="https://atomgit.com/l3gi0n">@l3gi0n</a> / <a href="https://atomgit.com/zjdd">@zjdd</a></td>
+    <td rowspan="1"><a href="https://atomgit.com/zjdd">@zjdd</a> / <a href="https://atomgit.com/jyf219">@jyf219</a></td>
     <td>Cangjie</td>
     <td><a href="https://atomgit.com/Cangjie/cangjie_tools">cangjie_tools</a></td>
   </tr>

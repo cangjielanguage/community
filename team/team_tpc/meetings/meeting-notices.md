@@ -8,5 +8,6 @@
 | 4    | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/497443488753/4fc77ca5339ff0f0f2a35345a89b93294207ee7dfc2e67a8cf303602733efc68?meetingType=wiseCloud) | 788005703 | 2026-08-17 | 1. Cangjie-TPC组织建仓评审 2.Cangjie-SIG组织建仓模板评审3.Cangjie-TPC组织分支管理评审 | 120 | 方维/fangwei51@h-partners.com | 夏松/xiasong.831184@huawei.com |
 | 5    | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/502288310001/4ae23608c3d04c2caaea551c32fa1592bc423e2f7e8eea49ac647b623e24fb7a?meetingType=wiseCloud) | 426355758 | 2026-08-24 | 1. Cangjie-TPC组织建仓评审 | 60 | 方维/fangwei51@h-partners.com | 夏松/xiasong.831184@huawei.com |
 | 6    | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/507601208777/5b1de1bfcbe3bd410e515362729ed8b8294c11f519f65cd71d51c776538822fe?meetingType=wiseCloud) | 658467489 | 2026-08-31 | 1.Cangjie-TPC组织建仓评审 <br/>2.已创建仓库审核 | 60 | 方维/fangwei51@h-partners.com | 夏松/xiasong.831184@huawei.com |
-| 7    | 第6次例会(超链接) |          | MMMM-YY-DD |          |            |                   |                   |
+| 7    | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/511990580497/1a538c12d9fcf2552ca085d23ab18da4227e612d93c1ff07b3865b979b6a1a23?meetingType=wiseCloud) | 592094971 | 2026-09-07 | 1.Cangjie-TPC组织建仓评审 <br/>2.已创建仓库代码审核 | 60 | 方维/fangwei51@h-partners.com | 夏松/xiasong.831184@huawei.com |
+| 8    | 第7次例会(超链接) |          | MMMM-YY-DD |          |            |                   |                   |
 

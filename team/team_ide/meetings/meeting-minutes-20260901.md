@@ -1,4 +1,4 @@
-会议：IDE Team-例会-2026-08-18
+会议：IDE Team-例会-2026-09-01
 
 ## 参会人员 (Attendance)
 
@@ -28,7 +28,9 @@
     - 社区问题讨论 —— 针对仓库 issue 协同社区开发者讨论解决方案
     - 优秀实践分享 —— 收集社区开发者的优秀实践案例，邀请在会上进行分享
 - 社区issue讨论
-  - https://gitcode.com/Cangjie/UsersForum/issues/3368 \
-    结论：内部提单跟踪，修改已合入，后续出版本走单
-  - https://gitcode.com/Cangjie/UsersForum/issues/3404 \
-    结论：不是模板问题，需要进一步结合报错信息和工程内容确认编译不通过原因
+  - https://gitcode.com/Cangjie/UsersForum/issues/3429 \
+    结论：官方暂无规划，邀请用户上会讨论，可提供帮助协助开发
+  - https://gitcode.com/Cangjie/UsersForum/issues/3441 \
+    结论：崩溃问题无法复现，通过现场和日志分析
+  - https://gitcode.com/Cangjie/UsersForum/issues/3421 \
+    结论：导包问题无法复现，通过现场和日志分析

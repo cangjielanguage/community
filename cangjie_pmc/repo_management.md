@@ -10,123 +10,49 @@
 
 本规范适用于仓颉社区内所有原生开发的代码仓。对于引入的第三方上游社区仓库，其管理原则应与上游社区保持一致。
 
+### **3. 组织定位与仓库归属**
+
+仓颉社区根据仓库性质与治理层级，将代码仓统一归口至下列三个 AtomGit 组织承载，建仓申请须首先明确目标归属组织：
+
+- **[Cangjie](https://atomgit.com/Cangjie) 组织**：承载仓颉语言项目管理委员会除 TPC Team 之外的作业仓库、仓颉社区章程和用户论坛仓库，以及持续维护的社区运作相关仓库。
+- **[Cangjie-TPC](https://atomgit.com/Cangjie-TPC) 组织**：承载仓颉三方库、工具等项目，由 TPC Team 负责管理。
+- **[Cangjie-SIG](https://atomgit.com/Cangjie-SIG) 组织**：承载非三方库、工具项目，由 TPC Team 负责管理。
+
+
 ## 二、 代码仓建立与准入<a id="section2"></a>
 
-1. **归口管理**：代码仓须归属于特定项目。建仓申请应由仓库责任人（Team Leader 或 Committer ）向所属项目对应的项目管理委员会（以下简称“PMC”）提交。
-2. **职责明确**：建仓申请须明确仓库的责任团队（Team或社区运营办公室），经 PMC 评审通过后，由授权管理员在 [Cangjie-SIG](https://gitcode.com/Cangjie-SIG) 组织下执行建仓。
-3. **分级审批准入**：
-   - **版本主干仓库**：凡进入仓颉语言社区版本的仓库，必须经 PMC 评审后方可建立。
-   - **非版本主干仓库**：不进入仓颉语言社区版本的仓库，可在 Team 评审通过后先行建立，但须向 PMC 备案并同步。
-   - **授权原则**：PMC 可根据实际治理需要，在其职权范围内授权仓库评审权限。
+### **1. 归口管理与建仓权限**
 
-## 三、 仓库配置与命名规范
+代码仓须归属于特定项目及对应组织。建仓申请路径按目标组织分级行使用例决策权：
 
-### **1. 命名与基础设置**
+- **Cangjie 组织建仓**：由 PMC 决策。建仓申请应由 Team Leader 向 PMC 提交议题申请，由 PMC 按其建仓模板与流程进行审核和管理。
+- **Cangjie-SIG、Cangjie-TPC 组织建仓**：由 TPC Team 决策。建仓申请由申请者向 TPC Team 提交，由 TPC Team 按其[建仓模板](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/%E3%80%90Cangjie-TPC%E7%A4%BE%E5%8C%BA%E3%80%91%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E7%94%B3%E8%AF%B7.docx)与流程进行审核和管理。
 
-- **命名准则**：版本主干仓库原则上采用 `cangjie_` 前缀，使用小写字母命名，单词间以底划线 `_` 分隔。例如：`cangjie_multiplatform_interop`。
+### **2. 职责明确**
 
-- **默认分支**：开发分支（默认为 `main`）须设置为默认分支。
+建仓申请须明确仓库的责任团队（Team 或社区运营办公室）及目标归属组织，经对应组织评审通过后，通过邮件方式向官方邮箱同步会议纪要，由授权管理员根据会议纪要结论在相应组织下执行建仓：
 
-- **功能约束**：除经 PMC 评审备案的特殊用途外，代码仓原则上取消 Wiki 与安全漏洞反馈模块。文档应通过专门的资料仓管理，安全漏洞须通过官网邮件渠道反馈。
-
-![基础配置](./pictures/基础配置.png)
-
-### **2.  分支与 Tag 管理**
-
-- **工作流模式**：社区统一采取 Fork 开发工作流，原则上禁止开发者直接在主仓库创建分支。
-
-![仓库管理](./pictures/仓库管理.png)
-
-- **分支命名策略**：分支命名须具备明确语义，遵循以下正则表达式：`^(feature|bugfix|release)/[a-z0-9.-]+$`。
-  - **发布分支**：以 `release/v<版本号>` 格式命名。
-  - **特殊说明**：`dev`（开发）与 `main`（发布）分支不受上述命名正则限制。
-
-- **Tag 命名规范**：Tag 须与社区版本号保持一致，遵循语义化版本规则：
-
-  - 通用格式：`^v(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-([a-zA-Z0-9-]+))?$`。格式为： v<主版本>.<次版本>.<修订版本>-先行版本号(可选)，示例： `V1.2.3-alpha`。
-
-  - 扩展库（stdx）特例：`^v(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*).(0|[1-9]\d*)(?:-([a-zA-Z0-9-]+))?$`，其版本命名风格跟其他工程权限有所差异，采用四位版本号规则。
-
-## 四、 开发协作与提交准则
-
-### **1. 提交规范（Git Commit）**
-
-- **日志标准**：推荐采用“约定式提交”（[Conventional Commits](https://www.conventionalcommits.org/zh-hans/v1.0.0/)）规范。提交信息须通过正则校验：`^(?<type>feat|fix|docs|style|refactor|test|chore|perf|build|ci|revert)(\((?<scope>[\w\-]+)\))?!?:\s(?<description>.{1,72})$`。
-
-- **物理限制**：单文件提交体积上限为 100M。
-
-- **操作禁令**：严禁执行强制推送（Force Push）操作。
-
-![提交设置](./pictures/提交设置.png "Request Config")
-
-### **2.  权限控制**
-
-代码仓核心角色分为 Developer 与 Committer。
-
-- **Developer**：拥有基础的开发协作权限。
-
-![Developer权限](./pictures/Developer权限.png "Developer")
-
-- **Committer**：拥有代码评审及合入控制权限。
-
-![Commiter权限](./pictures/Commiter权限.png "Commiter")
-
-- **保护分支**：默认开发分支、发布分支及 LTS 版本分支须设置为保护分支。
-
-![保护分支](./pictures/保护分支.png "Protect Branch")
+- Cangjie 组织仓库经 PMC 评审通过后，由授权管理员在 [Cangjie](https://gitcode.com/Cangjie) 组织下执行建仓。
+- Cangjie-SIG、Cangjie-TPC 组织仓库经 TPC Team 决策通过后，由授权管理员分别在 [Cangjie-SIG](https://gitcode.com/Cangjie-SIG)、[Cangjie-TPC](https://gitcode.com/Cangjie-TPC) 组织下执行建仓。
 
 
+## 三、 代码仓变更与迁移
 
-## 五、 合入请求（Pull Request）治理
+### **1. 仓库变更申请（退休、更名及开源引入）**
 
-### **1.  PR 合入条件**
+- **评审**：仓库变更评审按目标归属组织分级执行：
+  - Cangjie 组织仓库（含版本主干仓库及社区运作相关仓库）的退休、更名或外部开源软件的引入，须提交 PMC 进行评审。
+  - Cangjie-SIG、Cangjie-TPC 组织仓库的退休、更名或外部开源软件的引入，须提交 TPC Team 进行评审。
 
-- **多员检视**：每个 PR 至少须有两名评审人（Developer 或 Committer）评审通过。
+## 四、 执行
 
-![合入条件](./pictures/合入条件.png "Merge Request")
+### **1. 申请流程**
+- **申请人发起申请**：其中 Cangjie 组织仓库由 Team Leader 向 PMC 申报议题，通过 PMC 会议评审后执行；Cangjie-SIG、Cangjie-TPC 组织仓库按对应组织的建仓申请模板发送邮件至 [contact@cangjie-lang.net](contact@cangjie-lang.net) 办理。
+* Cangjie 组织模板：暂未公布
+* Cangjie-TPC组织模板：[Cangjie-TPC/TPC-Resource](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/%E3%80%90Cangjie-TPC%E7%A4%BE%E5%8C%BA%E3%80%91%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E7%94%B3%E8%AF%B7.docx)
+* Cangjie-SIG组织模板：暂未公布
+- **会议评审**：由对应组织进行评审并形成会议纪要
+- **代码仓操作**：将会议纪要同步至 [contact@cangjie-lang.net](contact@cangjie-lang.net) ，由授权管理员在3个工作日内进行相关操作。
 
-- **问题闭环**：检视发现的所有意见必须实质性解决，严禁未经确认直接标记为解决。
-
-- **门禁校验**：合入前必须确保相关自动化流水线测试（CI）全部通过。
-
-- **协议合规**：所有 PR 必须通过 CLA（贡献者许可协议）校验。
-
-![CLA 协议](./pictures/CLA协议.png "CLA")
-
-
-
-### **2.  合并策略限制**
-
-- **合入限制**：严禁“自提自合”（即提交者与合入者为同一人），严禁强制合入。所有合并必须通过 Fork 方式进行。
-
-![Pull Request](./pictures/PullRequests设置.png "Pull Request")
-
-- **信息保留**：为保留项目原始提交脉络，原则上建议禁止 Squash 合并方式。
-
-![Squash](./pictures/Squash合并.png "Squash")
-
-- **最小审查**：PR 最终必须由至少一名 Committer 审查通过后方可合入。
-
-![PR审查](./pictures/PR审查.png "PR")
-
-## 六、 代码仓毕业
-
-### **1. 仓库孵化阶段流程**
-
-仓颉项目仓库从开源建仓至孵化成熟（毕业），须遵循以下标准阶段：
-
-- **新建申请阶段**：详见本文第二部分，[“代码仓建立与准入”](#section2)。
-- **孵化准入阶段**：详见本文第二部分，[“代码仓建立与准入”](#section2)。
-- **准出终审阶段**：
-  - 版本主干仓库：在通过预审后，提交议题至[「QA Team 例会评审」](../team/team_qa/meetings)申请孵化准出评审，须确保所有遗留问题已闭环解决。
-  - 非版本主干仓库：向所属 Team 提交孵化准出终审议题，须确保所有遗留问题已闭环解决。
-- **正式准出（毕业）** ：向 [contact@cangjie-lang.net](contact@cangjie-lang.net) 提交最终准出申请，正式完成从孵化态向成熟态的转变，将代码仓迁移至 [Cangjie](https://gitcode.com/Cangjie) / [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) 组织。
-
-### **2. 仓库变更申请（新增、退休、更名及开源引入）**
-
-- **评审**：凡涉及版本主干仓库的新增、退休、更名或外部开源软件的引入，均须首先提交 PMC 进行专业评审；非版本主干仓库相关操作须在所属 Team 内部处理。
-
-- **执行路径**：
-	- **申请流程**：评审通过后，申请人须根据变更需求发起邮件申请。
-  
-	- **联系渠道**：新增、退休或更名操作须统一通过联系 [contact@cangjie-lang.net](contact@cangjie-lang.net) 进行确认与后台处理。
+### **2. 联系渠道** 
+须统一通过联系[contact@cangjie-lang.net](contact@cangjie-lang.net) 进行确认与后台处理。

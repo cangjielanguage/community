@@ -14,19 +14,19 @@ Team 是在PMC指导下，负责坐在项目特定子领域及创新项目的架
 
 每个 Team 均包含以下核心角色：
 
-•Team Leader：Team 的负责人，通常由 1-2 名在该领域有深入见解和影响力的专家担任，即Team组长与副组长。
+•Team Leader：Team 的负责人，由 PMC 任命，通常由 1-2 名在该领域有深入见解和影响力的专家担任，即Team组长与副组长。
 
 •职责:
 
 - 负责制定和推动 Team 的技术愿景、目标和路线图。
 - 召集和主持 Team 例会，引导技术讨论和决策。
 - 代表 Team 与 PMC (项目管理委员会) 及其他 Team 进行沟通协调。
-- 定期向 PMC 和社区汇报 Team 的工作进展、成果与风险。
+- 定期向 PMC 汇报工作计划和工作进展，接受社区监督和指导；Team Leader 可向 PMC 申请议题，按需触发 PMC 例会。
 - 维护 Team 的健康运作，激励和发展社区成员。
 - 负责 Team 仓库权限和邮件列表等基础设置的管理。
 - 组长拥有Team内部技术和管理的最终决策权。
 
-•Committer：Team 的核心贡献者，在特定代码仓库拥有写权限。
+•Committer：Team 的核心贡献者，在特定代码仓库拥有写权限。Committer 等 Team 内部核心角色由 Team Leader 提名组建，但须报 PMC 批准后方可正式任命。
 
 •职责:
 
@@ -35,14 +35,14 @@ Team 是在PMC指导下，负责坐在项目特定子领域及创新项目的架
 - 协助Leader维护其负责专项部分的代码仓库。
 
 
-•Contributor：Team 的核心贡献者，在特定代码仓库拥有写权限。
+•Contributor：Team 的核心贡献者，在特定代码仓库拥有写权限。Contributor 等 Team 内部核心角色由 Team Leader 提名组建，但须报 PMC 批准后方可正式任命。
 
 •职责:
 -	高质量的完成代码开发，提交工作。
 - 参与文档编写，问题修复或维护等社区贡献。
 - 指导和帮助新成员融入Team。
 
-•Member：所有对 Team 所属领域感兴趣并参与贡献的社区成员。
+•Member：所有对 Team 所属领域感兴趣并参与贡献的社区成员。Member 名单由 Team Leader 组建并报 PMC 批准。
 
 •职责:
 
@@ -82,7 +82,7 @@ Team 的生命周期包括创建申请、运作、变更和终止四个阶段。
 
   •邮件列表：作为官方沟通渠道，用于发布通知、讨论议题和归档决策。无独立邮件列表的 Team 可使用 [ dev@cangjie-lang.net](dev@cangjie-lang.net)。
 
-  •向 PMC 汇报：Team Leader需定期向 PMC 汇报工作进展，接受社区监督和指导。
+  •向 PMC 汇报：Team Leader 需定期向 PMC 汇报工作计划与工作进展，接受社区监督和指导；Team Leader 可向 PMC 申请议题，按需触发 PMC 例会。
   
 ### 4.解决争议
 - 项目级争议由Committer讨论，必要时上升到Team Leader(s)决策。
@@ -169,31 +169,4 @@ mv team_template.md team/team_yourteamname/team_yourteamname.md
 
 ### 3.仓库管理
 
-#### 3.1仓颉项目仓库孵化流程
-
-仓颉项目仓库从开源建仓到孵化成熟，通常需经历以下阶段：
-1.新建仓库申请：向架构 Team 提交新建仓库申请议题。
-2.孵化准出预审：向架构 Team 提交孵化准出预审议题。
-3.孵化准出终审：向 QA Team 提交孵化准出终审议题，解决所有遗留问题后完成准出。
-
-注意：新建仓库必须配置至少 2 名 Committer 以支持代码交叉检视（cross review）；满足基本合规要求，完成孵化仓目标准出的关联仓的联合构建。
-
-#### 3.2 仓库新增、退休、更名申请
-
-1.申请架构 Team 评审：
-
-- 新增、退休、更名。
-- 开源软件引入。
-- 提交 架构 Team 议题进行评审。
-
-2.发送申请邮件：架构 Team 评审通过后，根据需求提交建仓申请。
-
-- 新增仓：联系[contact@cangjie-lang.net](contact@cangjie-lang.net)。
-- 仓库退休/更名：联系[contact@cangjie-lang.net](contact@cangjie-lang.net)。
-
-#### 3.3 仓库孵化准出
-
-1.申请架构 Team 孵化预审：提交议题。
-2.申请质量 Team 孵化准出评审：提交议题。
-3.提交仓库孵化准出申请：质量 Team 准出评审通过后，向[contact@cangjie-lang.net](contact@cangjie-lang.net)提交准出申请。
-
+仓库管理请参考[仓颉社区仓库管理](./repo_management.md)

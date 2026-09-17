@@ -19,7 +19,7 @@
 ## Team成员
 
 ### Leader
-- 胡晓明[@l3gi0n](https://gitcode.com/l3gi0n) / 张俊[@zjdd](https://gitcode.com/zjdd)
+- 张俊[@zjdd](https://gitcode.com/zjdd) / 金亦凡[@jyf219](https://gitcode.com/jyf219)
 
 
 

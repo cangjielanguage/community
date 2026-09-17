@@ -20,3 +20,11 @@
 | 16   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |
 | 17   | [第8次例会](https://app.huawei.com/wmeeting/join/96793260/3Xv185wDxSKUixAODC3rUv06dMWxMoujI) | 2026-07-21 | 481972 | IDE Team 例会机制 | 5 | 周广宇 |  |
 | 18   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |
+| 19   | [第9次例会](https://app.huawei.com/wmeeting/join/98904928/n27buzUGE8ug1ne4K9rBvpG42ktpq2cgt) | 2026-08-04 | 698175 | IDE Team 例会机制 | 5 | 周广宇 |  |
+| 20   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |
+| 21   | [第10次例会](https://app.huawei.com/wmeeting/join/97266928/tieBF5cKVqp7OI0gRSVRTj2BxzPiHSDwE) | 2026-08-18 | 462093 | IDE Team 例会机制 | 5 | 周广宇 |  |
+| 22   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |
+| 23   | [第11次例会](https://app.huawei.com/wmeeting/join/94214867/mnBM1Tk7lVKKuvaQrc5CFSF0YiJtRRq1D) | 2026-09-01 | 195168 | IDE Team 例会机制 | 5 | 周广宇 |  |
+| 24   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |
+| 25   | [第12次例会](https://app.huawei.com/wmeeting/join/99921766/VMK87ysvbnHNcze6vf1kAXGup6K6lfaco) | 2026-09-15 | 378193 | IDE Team 例会机制 | 5 | 周广宇 |  |
+| 26   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |

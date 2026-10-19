@@ -28,3 +28,5 @@
 | 24   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |
 | 25   | [第12次例会](https://app.huawei.com/wmeeting/join/99921766/VMK87ysvbnHNcze6vf1kAXGup6K6lfaco) | 2026-09-15 | 378193 | IDE Team 例会机制 | 5 | 周广宇 |  |
 | 26   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |
+| 25   | [第13次例会](https://app.huawei.com/wmeeting/join/99048319/UEzZXgnfY2fd5mMxeLdCYJ3CAE0BePuCH) | 2026-10-20 | 889459 | IDE Team 例会机制 | 5 | 周广宇 |  |
+| 26   |  |  |          | 社区issue讨论 | 30  | 杨威 |  |

@@ -13,5 +13,6 @@
 | 9    | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/523026049425/3f9cdacdee1ab41971ced4b4c4eb5441e6d84a839aeb24b1d50c2c15b0a8ab0a?meetingType=wiseCloud) | 475830313 | 2026-09-21 | 1.历史申请项目进展 <br/>2.Cangjie-TPC组织建仓评审 | 60 | 方维/fangwei51@h-partners.com | 夏松/xdst、任义/renyi43、虞嘉豪/ChaosJohn、王焱济/cangjie-wangyanji、赵丹荣/Leporide |
 | 10   | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/525793960241/634d39d1ca95818b5fe381343dc27318d6304b22b690b30d1b2517b830b09e76?meetingType=wiseCloud) | 694197134 | 2026-09-28 | 1.历史申请项目进展 <br/>2.Cangjie-TPC组织建仓评审 | 60 | 方维/fangwei51@h-partners.com | 夏松/xdst、任义/renyi43、虞嘉豪/ChaosJohn、王焱济/cangjie-wangyanji、赵丹荣/Leporide |
 | 11   | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/536860544769/aaa00d0b7ae2e382317d43b9edc77917eaa88a846cfb1ebce9ca0e416eca5726?meetingType=wiseCloud) | 827773283 | 2026-10-12 | 1.历史申请项目进展 <br/>2.Cangjie-TPC组织建仓评审 | 60 | 方维/fangwei51@h-partners.com | 夏松/xdst、任义/renyi43、虞嘉豪/ChaosJohn、王焱济/cangjie-wangyanji、赵丹荣/Leporide |
-| 12   | 第12次例会(超链接) |          | MMMM-YY-DD |          |            |                   |                   |
+| 12   | [仓颉三方库Team例会](https://welink.huaweicloud.com/meeting/#/j/541804265689/32d3395e164188301add82a3316e4cd3609119f8b3f2324e24504c63211abb5a?meetingType=wiseCloud) | 840243831 | 2026-10-19 | 1.历史申请项目进展 <br/>2.Cangjie-TPC组织建仓评审 | 60 | 方维/fangwei51@h-partners.com | 夏松/xdst、任义/renyi43、虞嘉豪/ChaosJohn、王焱济/cangjie-wangyanji、赵丹荣/Leporide |
+| 13   | 第13次例会(超链接) |          | MMMM-YY-DD |          |            |                   |                   |
 

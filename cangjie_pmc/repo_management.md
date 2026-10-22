@@ -14,9 +14,9 @@
 
 仓颉社区根据仓库性质与治理层级，将代码仓统一归口至下列三个 AtomGit 组织承载，建仓申请须首先明确目标归属组织：
 
-- **[Cangjie](https://atomgit.com/Cangjie) 组织**：承载仓颉语言项目管理委员会除 TPC Team 之外的作业仓库、仓颉社区章程和用户论坛仓库，以及持续维护的社区运作相关仓库。
+- **[Cangjie](https://atomgit.com/Cangjie) 组织**：承载仓颉语言核心版本相关的代码仓库、仓颉社区章程和用户论坛仓库，以及持续维护的社区运作相关仓库。
 - **[Cangjie-TPC](https://atomgit.com/Cangjie-TPC) 组织**：承载仓颉三方库、工具等项目，由 TPC Team 负责管理。
-- **[Cangjie-SIG](https://atomgit.com/Cangjie-SIG) 组织**：承载非三方库、工具项目，由 TPC Team 负责管理。
+- **[Cangjie-SIG](https://atomgit.com/Cangjie-SIG) 组织**：承载三方库、工具项目之外的其他项目，如：开源应用、Demo、教材源码等，由 TPC Team 负责管理。
 
 
 ## 二、 代码仓建立与准入<a id="section2"></a>
@@ -48,9 +48,8 @@
 
 ### **1. 申请流程**
 - **申请人发起申请**：其中 Cangjie 组织仓库由 Team Leader 向 PMC 申报议题，通过 PMC 会议评审后执行；Cangjie-SIG、Cangjie-TPC 组织仓库按对应组织的建仓申请模板发送邮件至 [contact@cangjie-lang.net](contact@cangjie-lang.net) 办理。
-* Cangjie 组织模板：暂未公布
-* Cangjie-TPC组织模板：[Cangjie-TPC/TPC-Resource](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/%E3%80%90Cangjie-TPC%E7%A4%BE%E5%8C%BA%E3%80%91%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E7%94%B3%E8%AF%B7.docx)
-* Cangjie-SIG组织模板：暂未公布
+  - Cangjie 组织模板：暂未公布
+  - Cangjie-TPC组织与Cangjie-SIG组织模板：[Cangjie-TPC/TPC-Resource](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/%E3%80%90Cangjie-TPC%E7%A4%BE%E5%8C%BA%E3%80%91%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%BB%BA%E7%94%B3%E8%AF%B7.docx)
 - **会议评审**：由对应组织进行评审并形成会议纪要
 - **代码仓操作**：将会议纪要同步至 [contact@cangjie-lang.net](contact@cangjie-lang.net) ，由授权管理员在3个工作日内进行相关操作。
 

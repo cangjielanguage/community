@@ -1,5 +1,8 @@
 ## team\_architecture议程\&议题\&会议链接
 
+**架构会议信息移步至：[link](https://gitcode.com/Cangjie/proposal/blob/main%2FREADME.md/proposal_list.md)**
+
+<!--->
 |序号|会议链接|会议日期|议题名称|时长(分钟)|汇报人(姓名+邮箱)|参与人(姓名+邮箱)|
 |-|-|-|-|-|-|-|
 |1|第1次例会(https://meeting.huaweicloud.com/welink/webrtc/?lang=zh-CN#/j/97470377/0mLv2J7J9OMYPO30Ly1xdtXybfN9evzHC)|2026-4-16|cjpm lto 支持配置包可见性|30|||
@@ -15,5 +18,3 @@
 ||第6次例会(https://app.huawei.com/wmeeting/join/97470377/0mLv2J7J9OMYPO30Ly1xdtXybfN9evzHC)|2026-7-16   15:15-16:15|标准库不兼容变更评审|60|||
 ||第6次例会|2026-7-16   16:15-17:15|基于Extern Type的仓颉互操作能力设计|60|||
 ||||||||
-
-会议密码：458353

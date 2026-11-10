@@ -227,8 +227,6 @@
     - 创建 PR、更新代码或重新打开 PR 均**不会**自动触发门禁，需要重新评论 `start build`。
     - 仅修改 Markdown 文件时，只触发文档类构建检查，不触发编译和测试门禁。
 
-  <img src="image/sync_build.png" alt="sync_build" style="zoom:75%;" />
-
 - **检查内容**：
     - Commit 格式检查（需遵循 Conventional Commits 规范），且每条 commit 均包含 `Signed-off-by` 信息。
     - 静态告警分析（Codecheck）与开源声明合规检查（OAT）。

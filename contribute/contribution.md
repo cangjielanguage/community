@@ -213,32 +213,26 @@
 
 5. **门禁触发**
 
-- **门禁类型判定**：
-    - 由 Issue 关联的 PR 所属代码仓数量决定：
-        - 关联多个代码仓 PR：触发「多仓联合门禁」
-        - 关联单个代码仓 PR：触发「单仓门禁」
-    - 多仓联合门禁：关联同一个 Issue 的 PR 会联合构建，如 cangjie_compiler、cangjie_runtime、cangjie_test 三个仓的三个 PR 关联了同一个 Issue，那么在运行门禁时，它们会进行联合构建和测试。
-    
-- **触发方式**：
-    - 在任意关联 PR 的评论区回复指令：
-        - 回复 "**start build**"：执行 Cangjie 的主要基础检查，包含 commit 格式检查、静态告警分析、多平台构建、测试等（推荐）
-        - （内测中）回复 "**start full build**"：启动更全面的检查，耗时更长
-    
-      <img src="image/start_build.png" alt="start_build" style="zoom:75%;" />
-    
+- **门禁类型**：根据同一 Issue 关联的 PR 所属代码仓数量确定。
+    - **多仓联合门禁**：关联多个代码仓的 PR 时触发，所有 PR 会联合构建和测试。例如 `cangjie_compiler`、`cangjie_runtime`、`cangjie_test` 三个仓的 PR 关联同一 Issue 后，门禁会同时覆盖这三个 PR。
+    - **单仓门禁**：仅关联一个代码仓的 PR 时触发。
+
+- **触发方式**：在任意一个关联 PR 的评论区回复 `start build`，即可触发 Cangjie 的主要基础检查，包括 commit 格式检查、静态告警分析、多平台构建和测试等。
+
+  <img src="image/start_build.png" alt="start_build" style="zoom:75%;" />
+
 - **触发规则**：
-    - 关联同一 issue 的多个 PR，仅需在任意一个 PR 里回复触发一次门禁，该 PR 门禁通过后，所有 PR 都会添加 Label 和测试人。
-    - 每个 PR 只能同时运行一条 CI 流水线，如需重新启动，请先关闭运行中的，再评论触发门禁。
-    - 创建 PR、更新代码、重新打开 PR，系统**不会**自动触发门禁，需要重新回复触发 CI 门禁。
-    - Markdown 修改仅触发文档类构建测试门禁，不会触发 Cangjie 的编译测试门禁。
-    
-      <img src="image/sync_build.png" alt="sync_build" style="zoom:75%;" />
-    
-- **门禁检查内容**：
-    - Commit 格式检查（需遵循 Conventional Commits 规范）
-    - 静态告警分析（Codecheck）
-    - Linux/Windows/Mac 平台的构建和 HLT、LLT 测试
-    - 请保证每一条 commit 都已添加 Signed-Off-By 信息
+    - 同一 Issue 关联多个 PR 时，只需在任意一个 PR 评论一次；门禁通过后，所有关联 PR 会同步添加相应标签并指派测试人。
+    - 每个 PR 同一时间只能运行一条 CI 流水线。需要重跑时，请等待当前任务结束，或先在流水线中停止运行中的任务，再重新评论触发。
+    - 创建 PR、更新代码或重新打开 PR 均**不会**自动触发门禁，需要重新评论 `start build`。
+    - 仅修改 Markdown 文件时，只触发文档类构建检查，不触发编译和测试门禁。
+
+- **检查内容**：
+    - Commit 格式检查（需遵循 Conventional Commits 规范），且每条 commit 均包含 `Signed-off-by` 信息。
+    - 静态告警分析（Codecheck）与开源声明合规检查（OAT）。
+    - PR 与关联 Issue 的合规检查。
+    - Linux、Windows、macOS 平台的构建及 HLT、LLT 测试。
+    - 文档构建与多语言互操作检查。
 
 6. **PR检视**
 

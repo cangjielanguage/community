@@ -1234,14 +1234,10 @@
     <td><a href="https://atomgit.com/Cangjie-SIG/json-validator-schema-cj">excel-cj</a></td>
   </tr>
   <tr>
-    <td rowspan="7">AIAgent Team</td>
-    <td rowspan="7"><a href="https://atomgit.com/matricping">@matricping</a></td>
+    <td rowspan="6">AIAgent Team</td>
+    <td rowspan="6"><a href="https://atomgit.com/ydgzb">@ydgzb</a></td>
     <td>Cangjie-TPC</td>
     <td><a href="https://atomgit.com/Cangjie-TPC/MagicExplorer">MagicExplorer</a></td>
-  </tr>
-  <tr>
-    <td>Cangjie-TPC</td>
-    <td><a href="https://atomgit.com/Cangjie-TPC/cangjiexiaozhi">仓颉小智</a></td>
   </tr>
   <tr>
     <td>Cangjie-SIG</td>
